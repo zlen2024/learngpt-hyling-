@@ -1,0 +1,796 @@
+Av\.?:avenue
+av\.?:avenue
+ok:oké
+OK:oké
+sim:simme
+SIM:simme
+contact:contacte
+contacts:contactes
+etc\.?:et cetera
+vol\.:volume
+boul\.:boulevard
+févr\.:février
+dict\.?:dictionnaire
+coll\.:collection
+transcr\.?:transcription
+p\.:page
+al\.:alinéa
+chap\.:chapitre
+liv\.:livre
+paragr\.?:paragraphe
+pl\.:planche
+sect\.?:section
+gén:général
+am:amiral
+lgén:lieutenant-général
+col:colonel
+capt:capitaine
+cdr:commander
+maj:major
+lt:lieutenant
+H&M: hache é emme
+ap\. J\.?-C\.?:après Jésus-Christ
+av\. J\.?-C\.?:avant Jésus-Christ
+après J\.?-C\.?:après Jésus-Christ
+avant J\.?-C\.?:avant Jésus-Christ
+Ren Zhengfei:Genne Gennefée
+Huawei:ouah ouée
+HUAWEI:ouah ouée
+huawei:ouah ouée
+Google:gougoel
+jpg:gépègue
+WeChat:Wi Chatte
+Dr\.?:Docteur
+M\.:monsieur
+MM\.?:messieurs
+Mme:madame
+mme:madame
+Mlle:mademoiselle
+mlle:mademoiselle
+qqch:quelque chose
+qqn:quelqu'un
+1re:première
+Ctrl:contrôle
+CTRL:contrôle
+ctrl:contrôle
+MAC:mac
+Internet:Internète
+Sprint:Sprinete
+Blog:blogue
+Team:time
+Telegram:télégramme
+Instagram:Instagramme
+Facebook:Faiyceboucke
+Messenger:méssénjeur
+Twitter:Twitteur
+Skype:skaillepe
+Mail:Meyl
+e-meyl:imel
+emeyl:imel
+email:imel
+e-mail:imel
+Gmail:Gi Meyl
+Duolingo:Duolinegoe
+TikTok:TikToke
+Pinterest:Pinetoerèste
+Amazon Music:Amazone Musique
+Tinder:tinedeur
+Youtube Music:Youtube Musique
+SoundCloud:Saounede Claoude
+Google Chrome:Gougueule Krome
+Google Maps:Gougueule Mapce
+Yandex Browser:Yandexe Braouwseur
+Viber:vaïbeur
+Amazon:Amazone
+Yandex Search:Yandexe Seurch
+Dropbox:droppebokse
+PayPal:PayPale
+MyFitnessPal:Maille FitnessPale
+Uber:Ubeur
+AliExpress:AliEkspress
+Badoo:badou
+Google Drive:Gougueule Draïve
+Spotify:Spotifaille
+Joom:joume
+Snapchat:Snapchatte
+Airbnb:Air bi aine bi
+Linkedin:Lineketine
+Opera:Opéra
+Minecraft: Maïnecrafte
+Faceapp: Faiyce appe
+Wechat:ouichatte
+Shazam:chazame
+Bluetooth:blutousse
+Jelly Splash:jelly Splash
+Delivery Club:Délivery Cleub
+Booking\.com:Boukïngue point comme
+TripAdvisor:TripAdvaïseur
+Aviasales:Aviasséïlse
+CoinKeeper:Koïn kipeure
+Citymapper:Citymappeur
+Angry Birds:Aingry Boerdse
+Facetune:Faiycetune
+Swiftkey:Swiftki
+PicsArt:PicsArte
+Feedly:Fidli
+WeTaxi:oui Taxi
+Ryanair:Rayanair
+Chrome:Krome
+Stepik:Stépike
+Shanghai:Changaille
+Peking:Pékine
+Nankin:Nankinne
+Mao Zedong:Maeau Zedoung
+Hong Kong:Hong Kongue
+\.net:point nette
+\.fr:point effe erre
+\.org:point orgue
+\.com:point comme
+net:nette
+org:orgue
+com:comme
+gmail:Gi Meyl
+yahoo:yahou
+outlook:ahoutlouk
+msn:emme esse enne
+hotmail:otte meyl
+microsoft:microssofte
+aol:ah oh elle
+wanadoo:ouanadou
+free:frie
+yandex:yandekse
+mail:meyl
+sfr:esse effe erre
+verizon:vérizone
+att:ah té té
+icloud:aï klaoude
+etc:ette cétéra
+coulomb:coulom
+coulombs:couloms
+weber:véber
+webers:vébers
+peso:pésot
+pesos:pésots
+yuan:youane
+yuans:youanes
+fen:fène
+fens:fènes
+newton:niutonne
+newtons:niutonnes
+newton-mètre:niutonne-mètre
+newtons-mètres:niutonnes-mètres
+yard:yarde
+yards:yardes
+méga-ohm:méga hohmm
+méga-ohms:méga hohmms
+henry:hen ry
+henrys:hen rys
+micro-henry:micro hen ry
+milli-henry:milli-hen ry
+micro-henrys:micro hen rys
+milli-henrys:milli-hen rys
+birr:bire
+birrs:bires
+Cedi:cédi
+Cedis:cédis
+Dalasi:da lasi
+Dalasis:da lasis
+Quetzal:quète zal
+Quetzals:quète zals
+Forint:forine te
+Forints:forine tes
+yen:yenne
+yens:yennes
+shilling:shiligne
+shillings:shilignes
+tenge:téngué
+ringgit:rineguitte
+ringgits:rineguittes
+won:ouonne
+wons:ouonnes
+balboa:balboah
+balboas:balboahs
+zloty:zloti
+zlotys:zlotis
+baht:batte
+bahts:battes
+dong:dongue
+dongs:dongues
+us:usse
+bus:busse
+opus:opusse
+anus:anusse
+xérus:xérusse
+vénus:vénusse
+virus:virusse
+tonus:tonusse
+rébus:rébusse
+minus:minusse
+lotus:lotusse
+humus:humusse
+ficus:ficusse
+fétus:fétusse
+bonus:bonusse
+versus:versusse
+status:statusse
+radius:radiusse
+oculus:oculusse
+hiatus:hiatusse
+cursus:cursusse
+corpus:corpusse
+citrus:citrusse
+chorus:korusse
+caucus:caucusse
+campus:campusse
+cactus:cactusse
+blocus:blocusse
+omnibus:omnibusse
+minibus:minibusse
+celsius:Celsiusse
+thésaurus:tésaurusse
+processus:processusse
+antivirus:antivirusse
+coronavirus:coronavirusse
+trolleybus:trolleybusse
+pastis:pastisse
+octet:octé
+octets:octés
+volt:voltt
+volts:volttes
+chorégraphie:koréographie
+chronologie:kronologie
+orchidée:orkidée
+orchestre:orkestre
+chlore:klor
+charisme:karisme
+chaos:kaos
+mélancholie:mélankolie
+écho:éko
+monochrome:monokrome
+choral:koral
+polytechnique:politeknique
+psychologique:psykologique
+technologie:teknologie
+cholestérol:kolestérol
+bacchanale:bakanale
+chœur:kœur
+login:loguine
+faisons:fesons
+faisais:fesais
+faisait:fesait
+faisions:fesions
+faisiez:fesiez
+faisaient:fesaient
+ville:vile
+tranquille:tranquile
+Program Files:Programme fa hllce
+Program:Programme
+Files:fa hllce
+hier:hière
+mer:mère
+fier:fière
+amer:amère
+ver:vère
+cher:chère
+cancer:cancère
+hiver:hivère
+enfer:enfère
+liber:libère
+éther:éthère
+polyester:polyestère
+hamster:hamstère
+bulldozer:bulldozère
+tiers:tières
+kilooctet:kilo hoctet
+Times:tahym ce
+Higher:hahière
+Education:éducaychène
+World:worlde
+University:youniveursiti
+Rankings:rankine gce
+times:tahym ce
+higher:hahière
+education:éducaychène
+world:worlde
+university:youniveursiti
+rankings:rankine gce
+Ebay:ibay
+mall:moll
+Shopping:choppie ngue
+Apple:appeul
+Byron:ba iron
+Lord:lorde
+Gates:gaie tse
+Forbes:forbse
+Lincoln:Line colne
+Jack:djack
+Boeing:Bo ine gue
+OK:oh ké
+Shakespeare:shaikspire
+wilde:wa il de
+Dickens:dickènse
+Twain:twayne
+Austen:austène
+Jane:dja ine
+Amazon:amazone
+nike:na ike
+adidas:adidace
+reebok:riboke
+ford:forde
+poids:poi
+James:djay mce
+John:djone
+David:davide
+Donald:donalde
+Steven:sttivène
+Kevin:kévine
+Ryan:ra yanne
+Justin:djastine
+Sean:chonne
+Austin:austine
+Jennifer:djennifère
+Susan:susanne
+Karen:karène
+Margaret:Margarette
+Ashley:Aiche lie
+Heather:hésère
+Joyce:djo ice
+Doris:Dorisse
+Grace:grayce
+Murphy:meurphie
+Johnson:djohnsone
+Williams:villiamse
+Brown:braoune
+Evans:éva nse
+Roberts:robertse
+Martin:martine
+O'Brien:OBra yne
+White:oua yte
+Miller:Millère
+Roy:ro ye
+Rodriguez:Rodriguese
+Sturbucks:starbackse
+Astérix:astérikse
+Obélix:hobélixe
+bis:bisse
+prom\.:promenade
+mars:marsse
+août:outte
+zéro:zzéro
+zède:zzède
+Inc\.?:inecorporayetède
+euro:heuro
+euros:heuros
+neuf eures:neuve eures
+neuf heures:neuve heures
+cinq:cinque
+coq:coque
+peut en:peut hen
+short:chorte
+slip:sllipe
+smoking:smokine-gue
+boxer:bokseur
+tee-shirt:ti-cheurte
+sweat:souite
+hamburger:hamburgueur
+maïs:mahisse
+yaourt:yaourte
+boeufs:boeu
+live:laillve
+team:tim
+must:meoste
+listing:listine
+burn-out:burn-ahoute
+brunch:broeunch
+boots:boutz
+tennisse:ténisse
+design:désaillne
+footing:foutign
+sexy:seksi
+kit:kite
+talkie-walkie:taulki-waulki
+toast:toste
+chewing-gum:chwine-gomme
+club:cleube
+clubs:cleubes
+week-end:ouikénde
+BIOS:bihosse
+BRICS:brikse
+GIF:giffe
+TED:tedde
+MOS:mosse
+LIDL:lideul
+IKEA:ikéa
+PETA:péta
+DSLAM:déslam
+AIDA:AHIDA
+SaaS:sahasse
+AMCIS:amcisse
+ARES:aresse
+ASIACRYPT:asiacripte
+ATMOS:atmosse
+IELTS:ailléltse
+FoSSaCS:Fosse-sakse
+CD-ROM:cédé-romme
+DOS:dosse
+DVD-RAM:dé-vé-dé-ramme
+MPEG: emme pégue
+OASIS:oasisse
+SMART:smarte
+OPEP:opépe
+TOEFL:tohéfelle
+ASICS:acikse
+ROM:romme
+MIPS:mipse
+DAF:daffe
+DOP:doppe
+SWOT:swotte
+AAMAS:ah amasse
+ATMOS:atmosse
+ECIS:écisse
+ESOP:ésoppe
+EUROCRYPT:eurocripte
+FAST:faste
+FOCS:focsse
+ICALP:icalpe
+ISAAC:issahack
+ISCAS:iscasse
+LICS:licse
+NAACL:nahakle
+NIPS:nipse
+NeurIPS:neuripse
+PACIS:pacisse
+PLoP:ploppe
+PODS:podse
+POST:poste
+RECOMB:recombe
+REV:revve
+STACS:stacse
+SWAT:swatte
+TACAS:tacasse
+USENIX:youcenikse
+VIS:visse
+WADS:wadsse
+CITES:citèsse
+SID:sidde
+BASIC:baycik
+CISC:cisk
+DOS:dosse
+FLOPS:flopsse
+JPEG:j pègue
+MIPS:mipse
+NAT:natte
+NETBIOS:netbiosse
+ROC:rock
+POP3:poppe-trois
+SAN:sanne
+SEM:sémme
+AOS:ahosse
+SOAP:sohape
+VRAM:vramme
+WAIS:waillse
+WAN:wanne
+WEP:weppe
+EUROSTAT:eurostate
+PIN:pine
+UEFA:uéfa
+ZIP:zippe
+EXIT:aiksitte
+sept:sette
+football:foute-bole
+foot:foute
+basketball:baskete-bole
+tennis:tennisse
+base-ball:beillssebole
+badminton:badminetone
+but:bute
+ski:sski
+cricket:crickete
+voleyball:voleybole
+softball:softbole
+racquet-ball:racquete-bole
+racquetball:racquete-bole
+kung-fu:kune-fu
+camping:campingue
+ma-jong:ma-jongue
+baby-foot:baby-foute
+pizza:pidza
+spb:Saint-Pétersbourg
+COVID:kovide
+New:Niuu
+Delhi:Dailhi
+York:Yorke
+Los:losse
+Angeles:andgelesse
+iphone:aïphone
+Fahrenheit:farénaillte
+poker:pokère
+jass:geasse
+Game:gaillme
+of:offe
+Thrones:thronse
+Breaking:braillkine
+Bad:baide
+Peaky:Piky
+Blinders:Blaïndeurse
+Walking Dead:wolkinegue-dède
+jogging:djoguine-gue
+playlist:playliste
+fitness:fittnesse
+stretching:stretchine-gue
+step:stteppe
+training:trainine-gue
+coach:cotch
+crossfit:Crosse-Fite
+bodybuilding:body-bildine-gue
+cool:coule
+fastfood:faste-foude
+fun:fane
+fashion week:faichène ouicke
+casting:castine-gue
+high-teck:haill-teck
+Shoping:choppie-ngue
+smartphone:smarte-phone
+start-up:starte ape
+hiking:haillkine-gue
+trekking:trékkine-gue
+backpacking:baickpaickine-gue
+top:tope
+ketchup:kkete-choepe
+flash:flaiche
+back:baicke
+pool:poule
+all:olle
+inclusive:ine-clusive
+business:bisenesse
+deadline:déde-laillne
+low:lohou
+cost:coste
+line:laillne
+online:one-laillne
+life:laillphe
+funny:fanni
+COVID-19:kovide dizz-neuf
+Covid-19:kovide dizz-neuf
+Easyjet:isidjette
+poétesse:po-étesse
+swan:soine
+susan:sieusane
+mountain:mahountine
+view:viou
+christian:kristian
+chris:krisse
+christ:kri
+apple:appeul
+byron:baillronne
+Lincoln:Liine-colne
+brûle:brûlle
+ok:oh-ké
+Guangzhou:Goine-djohou
+Shenzhen:chegne-zegne
+samsung:same-soungue
+Azkaban:Ase kabane
+laugh:laphe
+out:ahoute
+loud:lahoude
+potter:potteur
+Dallas:dallasse
+man:maine
+booker:boukeur
+prize:praillze
+William:ouilliame
+dix-neuf:dizz-neuf
+dix-neuvième:dizz-neuvième
+quatre-vingt-dix-neuf:quatre-vingt-dizz-neuf
+quatre-vingt-dix-neuvième:quatre-vingt-dizz-neuvième
+and:ainde
+furious:fiuriousse
+audit:audite
+hobbit:hobbitte
+Parkinson:Parkine-sone
+down:dahoune
+vingt-et-un:vingt-é un
+quatre-vingt-un:quatre-vin un
+vingt-et-une:vingt-é une
+quatre-vingt-une:quatre-vin une
+vs:vérsusse
+wow:vaahou
+BBQ:barbekiou
+Chrysler:craille slère
+Ford:forde
+Hummer:eummeur
+Jeep:djipe
+Lexus:léksusse
+Renault:reneau
+Mercedes:mércédesse
+english:ine-gliche
+gucci:gutchi
+McDonald's:mackdo-naldse
+amazon:amazone
+island:aille-lainde
+walmart:wolmarte
+OBI:obi
+CROUS:khrousse
+dolce:doltché
+Volkswagen:volkse-vaguène
+Nissan:nissane
+Bentley:bène-tlie
+Siemens:simène-se
+Lukoil:lukohile
+Heineken:haillnikène
+Christian:kristian
+Dior:diore
+Gazprom:Gaze-prome
+Rosneft:rosse nefte
+Deutsche:deuilltch
+Telekom:télécomme
+Statoil:statohile
+hotline:hotte-laillne
+hotmail:hotte-meyle
+jésus:jésu
+netflix:nette-flikse
+charismatique:karismatique
+OneWeb:ouane-ouèbe
+one:ouane
+web:ouèbe
+SoftBank:Softe-Banke
+tech:teke
+écosystème:écossystème
+Android:ane-droïde
+smartphone:smarttphone
+SMUR:smure
+DeskJet:dèskdjete
+marketplace:markettpleillce
+Waze:ouaillze
+leader:lideur
+xerox:gzeroxe
+milliard:miliard
+WeWork:oui-worke
+Cnews:céniusse
+UNO:uno
+Bruxelles:brusselle
+Reykjavik:réyckiavicke
+Leipzig:lèpsique
+Zurich:zuricke
+Munich:municke
+Malmö:Malmeu
+Copenhague:copènehague
+Poznań:Poznagne
+Addis-Abeba:Addis-Abèba
+Asuncion:Assune-cione
+Bloemfontein:Bloemfone-taillne
+Bucarest:Bucareste
+Budapest:Budapeste
+Buenos Aires:Buhénosaires
+Caracas:Caracasse
+Chișinău:Kissinoeu
+Chisinau:Kissinoeu
+Minsk:Mine ske
+Ljubljana:Liubliana
+Freetown:frithaoune
+Kuala Lumpur:Kouala Lummpour
+Jérusalem:Jérusalème
+Luxembourg:Luksambourg
+N'Djaména:Ndjaména
+Stockholm:Stockholmme
+Saint John's:Saint djohnce
+Skopje:Sskopié
+Ottawa:hotawa
+Pristina:Pristina
+Vaduz:Vvaduse
+Tallinn:Tallinne
+Sarajevo:saraiévo
+Liechtenstein:Lieche-tenne-chtaillne
+Tunis:Tunisse
+Danemark:Danemarke
+Irak:Iraque
+Marshall:Marchall
+Paraguay:Paragouais
+Wellington:ouélline-gtone
+town:thaoune
+Bridgetown:Bridge thaoune
+Connecticut :Connecticoete
+Delaware:Délaouaire
+Iowa:ihowa
+Kentucky:Kéntucky
+Massachusetts:Massachoussette
+Ohio:ohaio
+Island:ailllande
+Texas:Tékssasse
+Washington:ouachine gtone
+Wisconsin:ouiskohnsine
+Coopers:Coupèrse
+Auckland:Aucklainde
+Phoenix:Fénixe
+Seattle:siateul
+road:rohoude
+highway:aillvèille
+Houston:hioustone
+street:strite
+lane:laihine
+Boston:bostone
+Minneapolis:Minnéapolisse
+Sosh:soche
+pixel:picsel
+oled:olède
+kirin:kirine
+Jared:djarède
+care:caire
+montréalais:monréalais
+supporter:supportère
+open:hopène
+boxeur:bokseur
+mis en:misan
+Manchester:Mantchestère
+bild:bilde
+consensus:consensusse
+red:rède
+buts:butes
+avril:avrile
+master:masteur
+masters:masteurs
+golfweek:golf ouique
+Newcastle:nioucasle
+LOSC:losque
+Ndlr:note de la rédaction
+ndé:note de l'éditeur
+ndt:note du traducteur
+nda:note de l'auteur
+n\.d\.l\.r\.:note de la rédaction
+N\.D\.É\.:note de l'éditeur
+N\.D\.T\.:note du traducteur
+N\.D\.A\.:note de l'auteur
+counter:caountère
+strike:straillke
+tournesol:tournessol
+poêle:poile
+oignons:ohgnons
+thym:tim
+intramuros:intramuroce
+Fresnes:frènne
+made:meillde
+vegan:végan
+corners:cornères
+blender:blène-deur
+persil:persi
+oeufs:eu
+œufs:eu
+Thuriès:Thurièsse
+HT:Hors taxes
+roomsaveurs:roumsaveurs
+desnoyer:dénoyer
+Deezer:diseur
+le fils:le fisse
+ce fils:ce fisse
+mon fils:mon fisse
+ton fils:ton fisse
+son fils:son fisse
+un fils:un fisse
+notre fils:notre fisse
+votre fils:votre fisse
+leur fils:leur fisse
+monte-carlo:monté-carlo
+Choeur:koeur
+speed-meetings:spide-mitine-gue
+Billboard:Billborde
+K-pop:kah-pope
+Bond:bonde
+streams:strimes
+streament:strime
+streamer:strimer
+quartz:qoiartze
+Baby2Baby:baiby-tou-baiby
+Carrefour:carfour
+Lilas:lila
+ineptie:inepcie
+Emmanuel:émmanuel
+lieu:llieu
+master:masteur
+Oxford:Oksforde
+Bosnie:Bossnie
+inexorable:inegzorable
+Halloween:hallouine
+naïveté:naïvté
+Proust:prouste
+autobus:autobusse
+gratos:gratosse

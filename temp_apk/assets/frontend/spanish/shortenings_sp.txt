@@ -1,0 +1,389 @@
+Sr\.?:señor
+Sra\.?:señora
+Srta\.?:señorita
+s\.s\.s\.:su seguro servidor
+tel\.?:teléfono
+tfno\.:teléfono
+Mª:María
+[UV]d\.?:usted
+[UV]ds\.?:ustedes
+vol\.?:volumen
+W\.C\.:baño
+D\.ª:Doña
+Dña\.:Doña
+Dr\.:doctor
+Dra\.:doctora
+d\. ?C\.:después de Cristo
+a\. ?C\.:antes de Cristo
+EE\.UU\.:Los Estados Unidos
+blv\.?:bulevar
+c\/:calle
+C\.P\.:código postal
+ctra\.?:carretera
+N\.?º:número
+n\.?º:número
+Da\.:doña
+de?pto\.?:departamento
+art\.:artículo
+dicc\.?:diccionario
+ej\.?:ejemplo
+etc\.?:etcétera
+Excma\.:Excelentísima
+Excmo\.:Excelentísimo
+F\. ?C\.:ferrocarril
+FF\. ?CC\.:ferrocarril
+fdo\.:firmado
+Ilma\.:Ilustrísima
+Ilmo\.:Ilustrísimo
+Iltre\.:ilustre
+mín\.?:mínimo
+pág\.?:página
+p\. ?ej\.:por ejemplo
+RR\. ?SS\.:redes sociales
+ft\.:con
+vs:contra
+xq:porque
+aki:aquí
+pq:porque
+tb:también
+tmb:también
+wpa:guapa
+pf:por favor
+bn:bien
+wapa:guapa
+tqm:te quiero mucho
+grax:gracias
+stoi:estoy
+ta:está
+SuperCharge:Supercharsh
+facebook:feisbuk
+ok:ockei
+OK:ockei
+huawei:huágüei
+Ximénez:Jiménez
+México:Méjico
+mexicano:mejicano
+mexicana:mejicana
+mexicanos:mejicanos
+mexicanas:mejicanas
+mexicas:mejicas
+mexicanismo:mejicanismo
+Oaxaca:Oajaca
+oaxacano:oajacano
+oaxacana:oajacana
+oaxacanos:oajacanos
+oaxacanas:oajacanas
+xiote:jiote
+Texas:Tejas
+texano:tejano
+texana:tejana
+La Axarquía:La Ajarquía
+Ximena:Jimena
+Mexía:Mejía
+Xalapa:Jalapa
+Xelajú:Jelajú
+Xola:Shola
+xocoyote:shocoyote
+hámster:jámster
+Hawai:Jawai
+hawaiano:jawaiano
+hawaiana:jawaiana"pulgada
+hachís:jachís
+yihad:yijad
+harakiri:jaraquiri
+Yokohama:Yoqojama
+dírham:dírjam
+gmail:jemeil
+google:guguel
+twitter:tuiter
+facebook:feisbuk
+wireless:guairles
+youtube:yutub
+apple:apel
+online:onlain
+skype:eskaip
+ballet:balét
+blues:blus
+jazz:yas
+jeep:yiip
+pizza:pitsa
+software:softver
+casting:cásting
+reality show:reáliti shou
+spoiler:espoiler
+cool:cul
+lobby:lobi
+marketing:márketin
+business:bisnes
+mánager:mánayer
+manager:mánayer
+start-up:estart ap
+start up:estart ap
+backup:beckab
+e-?mail:imeil
+online:onlain
+pen drive:pen draif
+ok:ockei
+OK:ockei
+ctrl:control
+\(-∞, ?\+∞\):de menos infinito a mas infinito
+http:hache te te pe
+https:hache te te pe es
+smartphone:esmartfon
+smartphones:esmartfons
+a\.m\.:a, eme
+p\.m\.:pe, eme
+qq:cuh cuh
+HUAWEI:huágüei
+\.com:punto com
+\.org:punto org
+\.net:punto net
+PSOE:pe soe
+DNI: de nei
+freelance:friláns
+bluetooth:blutuz
+photoshop:fotoshop
+microsoft:maicrosoft
+T515-2007:te cinco uno cinco , dos mil siete.
+Ave\.:Avenida
+Hollywood:jóliwud
+Inc\.?:corporación
+[Mm]a?[cc] ?[Dd]onald'?s:macdónalds
+look:luk
+P20:pe veinte
+P30:pe treinta
+P40:pe cuarenta
+P10:pe diez
+Airbnb:eirbienbi
+Jack:yack
+Eyeliner:ailáiner
+ebay:ibei
+leggings:léguins
+COVID-19:covid diecinueve
+hacker:jáquer
+Xperia:eksperia
+salida\/entrada:salida y entrada
+entrada\/salida:entrada y salida
+Samsung:Sámsung
+UE:Unión Europea
+mateX:meit equis
+mate X:meit equis
+baguettes:baguets
+baguette:baguet
+Amazon:Ámazon
+DIGITAL TERMS:
+selfie:selfi
+like:laik
+likes:laiks
+play:plei
+play station:plei stéison
+pause:poos
+mail:meil
+email:imeil
+follower:folówer
+follow:fólow
+followers:folowers
+fanpage:fanpeich
+target:targuet
+likear:laikear
+soundtrack:sáundtrec
+rating:reiting
+cloud:claud
+icloud:aiclaud
+iCloud:aiclaud
+drive:draif
+iphone:aifon
+iPhone:aifon
+iPad:aiped
+ipad:aiped
+ipod:aipod
+iPod:aipod
+drive:draif
+back up:bekap
+e-book:i buc
+screenshot:skrínshot
+boomerang:bumeran
+mouse:maus
+firewall:faerwól
+homebanking:joumbánking
+hack:jac
+hackear:jakear
+interface:interfeis
+playback:pleibeéc
+[Yy]ahoo:yaju
+[Oo]utlook:autlú
+[Cc]hrome:jrom
+[Mm]icrosoft [Oo]ffice:maicrosoft ofis
+[Zz]oom:zum
+[Hh]otmail:jotmeil
+[Bb]ooking:bukin
+nickname:nikneim
+offline:oflain
+soundcloud:saundklaud
+messenger:mésencher
+browser:bráuser
+viber:vaiber
+spotify:spotifai
+minecraft:maincraft
+facetune:feis tiun
+
+BUSINESS AND WORK:
+deadline:dedlain
+customer:castomer
+break:breik
+newsletter:niusléter
+crowdfunding:craudfandin
+team building:tim bildin
+brand:brend
+copyright:copirait
+dumping:dampin
+dealer:díler
+trading:treidin
+fair play:feir plei
+meeting:mitin
+briefing:brífing
+copywriter:copiráiter
+full time:ful taim
+full-time:ful taim
+part time:part taim
+part-time:part taim
+
+SPORTS:
+football:fútbol
+coach:couch
+gym:chim
+runner:raner
+offside:ofsaid
+training:treining
+baseball:béisbol
+volleyball:vóleibol
+frisbee:frisbi
+snowboarding:snou bordin
+burpee:burpi
+burpees:burpis
+hiking:jáiking
+
+FOOD:
+brunch:branch
+catering:quéiterin
+lunch:lanch
+snack:snek
+cocktail:cócteil
+food:fud
+bacon:beicon
+tupper:taper
+croisant:cruasan
+freezer:fríser
+gourmet:gurmé
+ice-cream:áiscrim
+cheeseburger:chísburguer
+sprite:esprait
+smoothie:smusi
+nugget:naguet
+nuggets:naguets
+starbucks:starbaks
+cookie:cuqui
+cookies:cuquis
+brownie:brauni
+muffin:mafin
+muffins:mafins
+cheesecake:chiskeik
+cappuccino:kapuchino
+
+MUSIC AND MOVIES:
+hit:jit
+hip hop:jipjop
+single:singuel
+thriller:triler
+trailer:tráiler
+backstage:beksteich
+punk:pank
+talk-show:tokshów
+funk:fank
+country:cantri
+playlist:pleilist
+jeans:chins
+shopping:shóping
+oversize:oversais
+sneaker:sniker
+sneakers:snikers
+sweatshirt:svetshot
+hoodie:judi
+loafer:lofer
+loafers:lofers
+Hong Kong:jong kong
+James:Cheims
+Steven:Stiven
+Ryan:Rain
+Sean:Shon
+Austin:Ostin
+Ashley:Eshli
+Heather:Jíicer
+Grace:Greis
+Murphy:Miorfi
+Williams:Wiliams
+Brown:Braun
+White:Wait
+Harry Potter:jari poter
+celebrity:celébriti
+gay:guei
+engagement:ingueichment
+light:lait
+lite:lait
+halloween:jélowin
+hall:jol
+hot:jot
+news:nyus
+check out:chekaut
+hater:jeiter
+hobby:jobi
+speaker:spiker
+boulevard:bulevar
+bouquet:bukei
+boutique:butíc
+souvenir:suvenír
+security:sekiúriti
+safety:seifti
+zip code:sip coud
+collage:colach
+mall:mol
+beige:beis
+bye:bai
+hippy:jipi
+airbag:eirbéc
+full:ful
+weekend:wikend
+shell:shel
+headshot:jedshot
+house:jaus
+underground:andegraund
+lounge:launch
+design:disain
+showroom:showrúm
+outlet village:autlet vilach
+outlet:autlet
+highlighter:jailáiter
+wallet:wolid
+nike:naiki
+reebok:ríbok
+boeing:boing
+decathlon:decatlón
+outdoor:autdór
+ryanair:raineir
+free:fri
+effective:eféctiv
+must see:mast si
+must do:mast du
+must:mast
+burn-out:born aut
+kleenex:klinex
+IKEA:ikea
+PETA:peta
+BRICS:briks
+LIDL:lidl
+IELTS:ailts
+TOEFL:toefl
+Forbes:forbs
+boom:bum
+baby:beibi
+5A:cinco ah,

@@ -1,0 +1,645 @@
+ecc\.:eccetera
+UE:Unione Europea
+ad es\.:ad esempio
+Sig\.:Signore
+Sig\.ra:Signora
+Sig\.na:Signorina
+Prof\.:Professore
+Prof\.ssa:Professoressa
+soc\.:società
+pag\.:pagina
+pg\.:pagina
+USA:Stati Uniti d'America
+UK:Regno Unito
+S\.U\.:Stati Uniti
+a\. ?C\.:avanti Cristo
+d\. ?C\.:dopo Cristo
+%:per cento
+P\.za:Piazza
+qlc:qualcuno
+qls:qualcosa
+tvb:ti voglio bene
+Dott\.:Dottore
+Dr\.:Dottore
+Dott\.ssa:Dottoressa
+a\.a\.:anno academico
+ab\.:abitanti
+alt\.:altezza
+ca\.:circa
+ca:circa
+c\.d\.:cosiddetto
+centr\.:centrale
+Hz\.:hertz
+it\.:italiano
+max:massimo
+qlcu:qualcuno
+secc\.:secoli
+sec\.\.:secolo\.
+seg\.:seguente
+segg\.:seguenti
+sigg\.:signori
+spett\.:spettabile
+s\.m\.:sul mare
+s\.l\.m\.:sul livello del mare
+s\.l\.m\.m\.:sul livello marino medio
+trad\.:traduzione
+tel\.:telefono
+UNESCO:Unesco
+UN:Nazioni Unite
+ONU:Organizzazione delle Nazioni Unite
+gen\.?:gennaio
+feb\.?:febbraio
+mar\.?:marzo
+apr\.?:aprile
+mag\.?:maggio
+giu\.?:giugno
+lug\.?:luglio
+ago\.?:agosto
+sett\.?:settembre
+ott\.?:ottobre
+nov\.?:novembre
+dic\.?:dicembre
+a\.:anno
+aa\.:anni
+ft\.:con
+http:acca ti ti pi
+https:acca ti ti pi esse
+www:vu vu vu
+SIM:sim
+HUAWEI:huawei
+SPb:San Pietroburgo
+m\/s\^2:metro al secondo quadrato
+[Oo][Kk]:okey
+ID: ai di
+Vkontakte: vi contactee
+R&D:erre e di
+lun\.:lunedì
+mar\.:martedì
+mer\.:mercoledì
+gio\.:giovedì
+ven\.:venerdì
+sab\.:sabato
+dom\.:domenica
+ma\.:martedì
+me\.:mercoledì
+v\.:venerdì
+d\.:domenica
+frigo\.:frigorifero
+bici\.:bicicletta
+ampli\.:amplificatore
+pome\.:pomeriggio
+raga\.:ragazzi
+siga\.:sigaretta
+trans\.:transessuale
+bus\.:autobus
+fax\.:telefax
+sg\.:seguente
+N\.B\.:nota bene
+UTC:il tempo coordinato universale
+CET:il Tempo dell'Europa Centrale
+SI:Sistema internazionale di unità di misura
+CIO:Comitato Olimpico Internazionale
+ISU:Indice di sviluppo umano
+C\.A\.P\.:codice di avviamento postale
+C\.V\.:cavallo vapore
+Uff\.:ufficio
+S\/:suo
+CV:curriculum vitae
+c\.v\.:curriculum vitae
+Egr\.:egregio
+sg:seguente
+[Aa]rch\.:architetto
+NY:new-york
+EAU:Emirati Arabi Uniti
+pag\.:pagina
+Shanghai:Sciangai
+Ebay:Ibey
+Mall:Mol
+[Ss]hopping:Scioping
+[Mm]ore:Mor
+[Ll]ove:Lav
+[Ll]ife:Layf
+[Ff]unny:Fani
+[Nn]ew [Yy]ork:Niu Iorch
+Ctrl:control
+[Tt]imes:Taims
+[Hh]igher:Hayer
+[Ee]ducation:Educhescion
+[Uu]niversity:Universiti
+gmail:gimeil
+WeChat:ViCiat
+[Vv]ol\.?:volume
+IPv6:i pi vi sei
+2G:due gi
+3G:tre gi
+4G:quattro gi
+5G:cinque gi
+①:uno
+pix:pixel
+RUB:rubli russi
+smartphone:smartfon
+Apple:Epol
+Gates:Gheits
+Forbes:Forbs
+Jack:Gech
+[Tt]eam:tiim
+[Ff]ile:fail
+byte:bait
+Lakers:Leikers
+Warriors:Uoriors
+soccer:socher
+[Hh]ow:hau
+[Tt]he:de
+[Ss]teel:stil
+tempered:temperd
+Steve:Stiv
+Jobs:Giobs
+Bowery:Baueri
+[Ss]tation:steiscion
+[Cc]ity:siti
+[Hh]all:hol
+[Ww]orld:uorld
+[Tt]rade:treid
+[Cc]enter:senter
+William:Uilliam
+Shakespeare:Sceichspir
+[Dd]isplay:displej
+Tudor:Tiudor
+Azkaban:Ascaban
+[Mm]obility:mobiliti
+[Ww]ireless:uairless
+[Ll]augh:laf
+out:aut
+loud:laud
+email:imeil
+frame:freim
+rate:reit
+browser:brauser
+Shin Jung-hyeon:Scin Giunion
+[Mm]an:men
+booker:bucher
+prize:prais
+[Ww]i\-[Ff]i:uai-fai
+WI\-FI:uaj-faj
+war:uor
+channel:cennel
+collection:collecscion
+boot:but
+Ethernet:Eternet
+online:onlayn
+business:bisness
+BBQ:barbichiu
+farhenheit:farenait
+call:col
+vs:contro
+AM:ei em
+PM:pi em
+NBA:en bi ej
+iEEE:i e e e
+FAQ:fach
+lie:lai
+Pickup:picap
+lea:lej
+timer:taimer
+Bluetooth:Blutut
+Newton:niuton
+t-shirt:tisciort
+sweater:sueter
+pullover:pulover
+jean:gin
+jeans:gins
+skinny jeans:skinni gins
+straight jeans:streit gins
+oversize:oversais
+sneaker:snicher
+sweatshirt:suitsciort
+hoodie:udi
+body:bodi
+loafer:lofer
+hamburger:amburgher
+boots:buts
+design:disain
+week-end:uichend
+iPad:ajpad
+touch:taci
+widescreen:uaidscrin
+tv:tivù
+files:fails
+systems:sistems
+k-pop:key-pop
+commerce:commers
+shock:scioc
+googleplay:gugolplej
+[Yy]outube:jutjub
+FBI:efbiaj
+Fbi:efbiaj
+DOC:doc
+r\.:regnante
+Ops:ups
+[Yy]outube:yutub
+SKYTG:skay ti gi
+stepchild:stepciaild
+adoption:adopscion
+welfare:uelfeir
+customer:castomer
+care:cheir
+mission:miscion
+startup:startap
+community:commiuniti
+manager:meneger
+time:taim
+freelance:frilans
+CEO:si i o
+target:targhet
+meeting:miting
+deadline:dedlain
+conference:conferens
+hardware:harduer
+software:softuer
+touchscreen:taciscrin
+social:soscial
+network:netuork
+brand:brend
+must-have:mast-hev
+trendy:trendi
+make:meik
+up:ap
+fashion:fescion
+cool:cul
+outfit:autfit
+movie:muvi
+soundtrack:saundtrec
+legal:ligal
+sequel:siquel
+prequel:priquel
+DJ:digej
+trash:tresci
+baby:beibi
+boomers:bumers
+teenager:tineiger
+duty:diuti
+free:fri
+break:breik
+inclusive:inclusiv
+coffee:cofi
+MeeTime:mitaim
+english:inglish
+Ralph:Ralf
+Fiennes:Fienns
+Coulson:Colson
+Fiennes-Fiffin:Fienns Fììfin
+slash:slesh
+Révolution:revolussion
+nationale:nassional
+Marcel:Marsel
+garage:garagj
+fanpage:fanpeigj
+computer:compiuter
+Anneabelle:Annabel
+sky:scai
+\.com:punto com
+\.org:punto org
+\.net:punto net
+Andorra la Vella:Andorra la Veglia
+Saint John's:Seint Gions
+Melbourne:Melburn
+Brisbane:Brisben
+Klagenfurt:Claghenfurt
+Bregenz:Breghenz
+Gäncä:Gangia
+Sumqayıt:Sumgait
+Freeport:Friport
+Coopers Town:Cupers Taun
+Bridgetown:Bridgetaun
+Bruxelles:Brusselle
+Charleroi:Sciarlrua
+Naypyidaw:Nepjido
+Sarajevo:Saraievo
+Ouagadougou:Uagadugu
+Gitega:Ghitega
+Yaoundé:Iaundè
+Québec:Québech
+N'Djamena:N'Giamena
+Shenzhen:Sciengien
+Brazzavill:Brasavil
+Kinshasa:Kinsciassa
+Pyongyang:Pionghiang
+Yamoussoukro:Iamossucro
+Århus:Orhus
+Aalborg:Olborg
+Roseau:Roso
+Nantes:Nant
+Montpellier:Monpellie
+Bordeaux:Bordo
+Rennes:Ren
+Libreville:Librvil
+Kōbe:Cobe
+Saint George's:Seint Giorges
+Georgetown:Giorgetaun
+Port-au-Prince:Port-o-prens
+Chennai:Cennai
+Jaipur:Giaipur
+Reykjavík:Reichiavich
+Majuro:Magiuro
+Kenya:Chenia
+Al Kuwait:Al Cuveit
+Vientiane:Vientian
+Liechtenstein:Lictenstain
+Nouakchott:Nuacsciott
+Louis:Luis
+Chișinău:Chisinau
+Podgorica:Podgorizza
+Windhoek:Uinduc
+Abuja:Abugia
+Christchurch:Cristciorci
+Auckland:Ocland
+Karachi:Caraci
+Lahore:Lahor
+Ngerulmud:Ngherulmud
+Asunción:Assunzione
+Timișoara:Timiscioara
+Castries:Castri
+Kingstown:Chingstaun
+São Tomé:San Tomé
+Seychelles:Seicelle
+Freetown:Fritaun
+Valencia:Valensia
+Chicago:Cicago
+Phoenix:Finics
+Seattle:Sietl
+Washington:Uoscington
+Khartum:Cartum
+Lucerna:Luzerna
+Dušanbe:Duscianbe
+Spain:Spein
+Aşgabat:Ascigabat
+Donec'k:Donetsc
+Delaware:Delaver
+Idaho:Aidao
+Iowa:Aiova
+Louisiana:Luisiana
+Maine:Mein
+Maryland:Merilend
+Massachusetts:Massaciussets
+Michigan:Micigan
+Missouri:Missuri
+New Jersey:Niu Gersi
+Ohio:Oaio
+Rhode Island:Rod Ailend
+Tennessee:Tennessi
+Utah:Iuta
+Wyoming:Vaioming
+Alexander:Alecsander
+road:roud
+highway:haivei
+avenue:aveniu
+lane:lein
+place:pleis
+plaza:plasa
+street:strit
+Amazon:Amason
+Nike:Naichi
+Walmart:Volmart
+Target:Targhet
+Google:Gugol
+Coke:Couc
+Microsoft:Maicrossoft
+Starbucks:Starbacs
+Under:Ander
+Armour:Armor
+Navy:Neivi
+Kohl's:Couls
+Chevrolet:Scevrole
+McDonald's:Mac Donalds
+Kroger:Crogher
+Secret:Sicret
+Eagle:Igol
+Chick-fil-A:Cicfilei
+Jordan:Giordan
+Buy:Bai
+Sephora:Sefora
+Chipotle:Cipotle
+Macy's:Meisis
+Jeep:Gip
+Trader:Treider
+Joe's:Gious
+Hershey's:Ersceis
+PlayStation:PleiSteiscion
+Levi's:Livais
+Ralph:Ralf
+Lauren:Loran
+GameStop:GheimStop
+Reebok:Riboc
+HP:Eicipi
+New:Niu
+Balance:Belans
+Wendy's:Vendis
+Converse:Convers
+Publix:Pablics
+Supreme:Suprim
+eBay:ibei
+Tree:Tri
+Lucky:Lachi
+Brand:Brend
+Lush:Lash
+Wrangler:Renghler
+Crew:Criu
+Xbox:Icsbocs
+Champion:Cempion
+Lay's:Leis
+Whole:Oul
+Foods:Fuds
+Funko:Fanco
+Tide:Taid
+Children's:Cildrens
+[Ww]hite:Vait
+[Cc]astle:Casl
+[Gg]reat:Greit
+client:claient
+header:eder
+head:ed
+HEAD:ed
+get:ghet
+GET:ghet
+[Rr]eload:Riloud
+Norges:Norghes
+Bank:Benc
+tranched:trenced
+cover:caver
+Brooklyn:Bruclin
+Sociedad:Sosiedad
+match:matce
+Jules:Giul
+Manchester:Mancester
+United:Iunaited
+Ipswich:Ipsvice
+Town:Taun
+outdoor:autdor
+Earth:Ers
+offline:offlain
+board:bord
+zoom:zum
+Lite:lait
+download:daunloud
+database:databeis
+Facebook:Feisbuc
+recovery:ricaveri
+slow-motion:slou-mouscion
+Executive:exechiutiv
+chaise:sces
+longue:long
+[Pp]rice:prais
+EuroCity:eurossiti
+gg:giorni
+feedback:fidbec
+DAD:ded
+[Ss]hip:scip
+Manager:meneger
+at:et
+[Ii]nternational:Internescional
+[Ff]light:flait
+Arby's:Arbis
+bug:bag
+chat:ciat
+cent:sent
+[Nn]ight:nait
+and:end
+day:dey
+Cole:Coul
+[Ss]ightseeing:saitsiing
+sommelier:sommelié
+lockdown:locdaun
+tiramisù:tiramissù
+freezer:friser
+Samsung:Sàmsung
+Mantova:Màntova
+Modena:Mòdena
+Genova:Génova
+[Aa]ccademia:accadémia
+[Ss]abato:sàbato
+[Ff]ascino:fàscino
+[Rr]elax:relàcs
+Mausoleo:Mausoléo
+Varsavia:Varsàvia
+Messenger:Mééssenger
+[Dd]ollari:dòòllari
+[Dd]ollaro:dòòllaro
+ricordati:ricòòrdati
+[Aa]bbandano:abbandòno
+Mongolia:Mongòlia
+[Tt]erametri:teramétri
+[Tt]erametro:teramétro
+[Ss]puntatele:spuntàtele
+[Tt]riveneto:trivéneto
+WineNews:vain nius
+kitchen:chìtcen
+[Dd]uster:daster
+Citroen:Sitroén
+Peugeot:Pegiò
+Renault:Renò
+[Oo]ne:uan
+[Ww]ay:vey
+look:luc
+[Ll]eggero:leggéro
+[Ll]eggera:leggéra
+[Ll]eggeri:leggéri
+coupé:cupé
+split-screen:split scrin
+[Pp]rivacy:pràìvassi
+ciarlatano:ciarlatàno
+marrocchino:marocchìno
+PES:pes
+UEFA:uefa
+eFootball:efutbol
+[Ww]eekend:uichend
+Bloomberg:Blumberg
+[Rr]unner:ranner
+[Ll]eague:lig
+FIBA:fiba
+[Bb]asketball:baschetbòl
+[Cc]up:cap
+volano:vòlano
+meteo:méteo
+[Rr]adar:ràdar
+[Cc]lean:clin
+[Bb]ody:badi
+Maria:Marìa
+[Cc]olesterolo:colesteròlo
+iTunes:aitiuns
+[Ii]OS:ai o es
+[Ss]treaming:strìming
+[Bb]eats:bits
+Taylor:Tèylor
+[Ww]alkman:volc men
+[Ss]haring:scèring
+Shazam:Sciasàm
+[Ll]ive:laiv
+[Pp]ictures:pìccers
+[Rr]ice:Rais
+[Cc]hilli:cili
+[Rr]age:reige
+[Aa]gainst:egheinst
+[Mm]achine:mascìn
+SoundCloud:saund claud
+[Ss]ound:saund
+[Cc]loud:claud
+Gable:Gheibol
+Mitchell:Miccell
+Mike:Maik
+[Qq]uestion:quèscion
+FIAT:fat
+[Cc]lown:claun
+Gacy:Gheissi
+Oscar:òòscar
+[Mm]ade:meid
+China:Ciaina
+[Pp]ool:pul
+Sounders:saunders
+Bryant:Bràian
+Nba:en bi ej
+[Bb]lue:blu
+Marines:Marìns
+Trump:Tramp
+[Dd]reamers:drimers
+Chelsea:Celsi
+Bentley:Bentli
+Brookfield:brùùcfild
+[Ii]nauguration:inaugureiscion
+[Dd]ay:dey
+asino:àsino
+Citroën:Sitroèn
+[Rr]acing:reissing
+[Dd]owning:Dauning
+AppGallery:app ghèlleri
+Madrid:Madrìd
+[Gg]aranzia:garanzìa
+[Ss]tatua:stàtua
+[Ss]tatue:stàtue
+[Cc]ucchiaino:cucchiaìno
+[Cc]ucchiaini:cucchiaìni
+[Aa]rachido:aràchido
+[Aa]rachidi:aràchidi
+[Dd]iocesi:diòcesi
+[Ee]sercito:esèrcito
+[Ee]serciti:esèèrciti
+[Ii]sola:ìsola
+[Cc]adavero:cadàvero
+[Cc]adaveri:cadàveri
+[Vv]edova:vèèdova
+[Vv]edove:vèèdove
+[Cc]ommemora:commèèmora
+[Dd]ibattito:dibàttito
+[Dd]ibattiti:dibàttiti
+micro[Ss][Dd]:micro esse di
+dCi:di Ci
+n\.:numero
+[Cc]elsius:cèèèlsius
+[Ss]potify:spotifai
+[Dd]eezer:diser
+[Ee]ccotti:èèèccotti
+[Cc]orsia:corsìa
+[Cc]orsie:corsìe
+[Ss]erie [Aa]:serie, aa
+[Bb]ackspace:becspeis
+[Ee]scape:escheip
+[Ww]indows:uindous

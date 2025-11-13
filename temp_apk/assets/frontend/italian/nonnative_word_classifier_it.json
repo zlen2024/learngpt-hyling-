@@ -1,0 +1,11 @@
+{
+  "version": "0.3",
+  "padding_word": "quando",
+  "padding_size": 1,
+  "char_n_gramm_order": 4,
+  "word_n_gramm_order": 3,
+  "threshold": 0.5,
+  "bias": -3.09051189,
+  "allowed_chars": "A-Za-zÁáÉéÍíÓóÚúÀàÈèÌìÒòÚù\\'\\-\\s",
+  "split_chars": ""
+}

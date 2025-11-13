@@ -1,0 +1,106 @@
+﻿first,label,label
+second, ,normalized text
+1,Mein Geburtstagsdatum ist 01.01.1982.,Mein Geburtstagsdatum ist der erste Januar neunzehn-hundert-zwei-undachtzig.
+2,Das Jahr 1144 hat eine bedeutende Rolle in der Geschichte von einer mittelalterlichen Stadt gespielt., Das Jahr elf-hundert-vier-und-vierzig hat eine bedeutende Rolle in der Geschichte von einer mittelalterlichen Stadt gespielt.
+3,Was ist in 1746 passiert?,Was ist in siebzehn-hundert-sechundvierzig passiert?
+4,Berlin im Jahr 2001 hat mehr als 200 Veranstaltungen durchgeführt.,Berlin im Jahr zwei-tausend-eins hat mehr als zwei-hundert Veranstaltungen durchgeführt.
+5,Die Betriebsferien dauern vom 01.02.2018 bis 30.03.2018.,Die Betriebsferien dauern vom ersten Februar zwei-tausend-achtzen bis dreißigstem März zwei-tausend-achtzehn.
+6,Sie sind zu meiner Geburtstagsfeier am 7. Mai 2016 herzlich eingeladen.,Sie sind zu meiner Geburtstagsfeier am siebten Mai zwei-tausend-sechzehn herzlich eingeladen.
+7,Jan. ist einer der schneereichsten Wintermonate.,Januar ist einer der schneereichsten Wintermonate.
+8,Wahrscheinlich fahre ich nach Bremen in Feb.,Wahrscheinlich fahre ich nach Bremen im Februar.
+9,Wahrscheinlich fahre ich nach Bremen in Febr.,Wahrscheinlich fahre ich nach Bremen im Februar.
+10,Im Mrz. startet die neue Staffel von "Tatort".,Im März startet die neue Staffel von "Tatort".
+11,Der Apr. ist nicht so ganz passend für mich., Der April ist nicht so ganz passend für mich.
+12,Im Jun. habe ich eine Dienstreise nach Frankreich für 2 Wochen.,Im Juni habe ich eine DIenstreise nach Frankreich für zwei Wochen.
+13,Was für Feiertage gibt es im Jul.?,Was für Feiertage gibt es im Juli?
+14,Der Aug. bereitet für Sie viele Überraschungen vor.,Der August bereitet für Sie viele Überraschungen vor.
+15,Im Sep. werden Sie schon keine Schlafprobleme mehr haben.,Im September werden Sie schon keine Schlafprobleme mehr haben.
+16,Im Sept.,Im September werden Sie schon keine Schlafprobleme mehr haben.
+17,Du musst dich mit ihr für das Treffen im Okt. verabreden.,Du musst dich mit ihr für das Treffen im Oktober verabreden.
+18,Im Nov. stigen die Ölpreise schon wieder.,Im November stiegen die Ölpreise schon wieder.
+19,Wir bereiten uns auf das Weihnachten im Dez. vor.,Wir bereiten uns auf das Weihnachten im Dezember vor.
+20,Er hat schon einige Pläne für diese Zeit am Mo.,Er hat schon einige Pläne für diese Zeit am Montag.
+21,Am Di.habe ich schon einen Termin für Vormittag.,Am Dienstag habe ich schon einen Termin für Vormittag.
+22,Wer ist bereit am Mi. den Vortrag zu halten?,Wer ist bereit am Mittwoch den Vortrag zu halten?
+23,Findet  das Fußballspiel am Do. doch statt?,Findet das Fußballspiel am Donnerstag doch statt?
+24,Am Fr. fällt die Vorlesung aus.,Am Freitag fällt die Vorlesung aus.
+25,Am Sa. möchte ich mich mit meiner Schwester zum Abendessen treffen.,Am Samstag möchte ich mich mit meiner Schwester zum Abendessen treffen.
+26,Hast du schon was am So.vor?,Hast du schon was am Sonntag vor?
+27,Verpassen Sie die neue Folge um 07:00 Uhr nicht.,Verpassen Sie die neue Folge um sieben Uhr nicht.
+28,Ich habe den Flug für 07:15 gekauft.,Ich habe den Flug für sieben Uhr fünfzehn gekauft.
+29,Schicken Sie mir bitte die Unterlagen nicht später als um 23:59 ab.,Schicken Sie mir bitte die Unterlagen nicht später als um dreiundzwanzig Uhr neunundfünfzig ab.
+30,Der Zug kommt auf Gleis 7 um 16:17 an.,Der Zug kommt auf Gleis sieben um sechzehn Uhr siebzehn an.
+31,Wir haben Frühstück gewöhnlich um 7 Uhr morgens., Wir haben Frühstück gewöhnlich um sieben Uhr morgens.
+32,Ich habe meinen Wecker gestern auf 06:05 gestellt.,Ich habe meinen Wecker auf fünf nach sechs gestellt.
+33,Um 23:15 möchte ich schon ins Bett gehen.,Um Viertel nach elf möchte ich schon ins Bett gehen.
+34,Die 3. Stunde fängt um 11:25 an.,Die dritte Stunde fängt um fünf vor halb zwölf an.
+35,Lass uns mal um 13:30 treffen.,Lass uns mal um halb zwei treffen.
+36,Ich arbeite heute sicher nicht später als bis 19:35.,Ich arbeite heute sicher nicht später als bis fünf nach halb acht.
+37,Kann ich dich um 20:45 anrufen?,Kann ich dich um Viertel vor neun anrufen?
+38,Ich will die Nachrichtensendung nicht verpassen und schalte den Fernseher schon um 19:55 an.,ich will die Nachrichtensendung nicht verpassen und schlate den Fernseher schon fünf vor acht an.
+39,Können wir uns um 17:15 treffen?,Können wir uns um Viertel nach fünf treffen?
+40,Ich habe noch Zeit um 18:35 bevor ich den Feierabend habe.,Ich habe noch Zeit um fünf nach halb sieben bevor ich den Feierabend habe.
+41,Die Entfernung ist 1 km lang.,Die Entfernung ist ein Kilometer lang.
+42,Die blaue Wand ist mehr als 2 m lang.,Die blaue Wand ist mehr als zwei Meter lang.
+43,Dieser Tisch ist 150 cm hoch., Dieser Tisch ist ein-hundert-fünfzig Zentimeter hoch.
+44,Dieser Teil ist nur 3 mm lang.,Dieser Teil ist nur drei Milimeter lang.
+45,Diese Flasche enthält 2 l Milch.,Diese Flasche enthält zwei Liter Milch.
+46,Sie müssen jeden Tag 30 ml Medizin einnehmen.,Sie müssen jeden Tag dreißig Milliliter Medizin einnehmen.
+47,Der neue Film dauert 1 h lang.,Der neue Film dauert eine Stunde lang.
+48,Mein Flug ist in 2h.,Mein Flug ist in zwei Stunden.
+49,Das neue Modell kann die Geschwindigkeit von 220 km/h erreichen., Das neue Modell kann die Geschwindigkeit von zwei-hundert-zwanzig Kilometer pro Stunde erreichen.
+50,Die Operation hat weniger als 20 min gedauert.,Die Operation hat weniger als zwanzig Minuten gedauert.
+51,Er war damit etwa 20 s langsamer als die schnellsten Fahrzeuge.,Er war damit etwa zwanzig Sekunden langsamer als die schnellsten Fahrzeuge.
+52,Schon 7 kg zu tragen ist zu schwer für mich.,Schon sieben Kilogramm zu tragen ist zu schwer für mich.
+53,Die Chipspackung enthält etwas 170 gr Chips.,Die Chipspackung enthält etwa ein-hundert-siebzig Gramm Chips.
+54,Sämtliche Werke von Schiller stecken in 5 MB.,Sämtliche Werke von Schiller stecken in fünf Megabait.
+55,Eine 20 Meter lange Bücher-Reihe ist nur 5 GB.,Eine zwanzig Meter lange Bücher-Reihe ist nur fünf Gigabait.
+56,Wieviel KB darf eine E-Mail sein?,Wieviel Kilobait darf eine I-Me-il sein?
+57,Der 1. Teil des Buches hat den Lesern sehr gut gefallen.,Der erste Teil des Buches hat den Lesern sehr gut gefallen.
+58,Der 3. Teil des Buches über einen Zauberer ist der beste.,Der dritte Teil des Buches über einen Zauberer ist der beste.
+59,Die 7. Folge der neuen Serie hat meine Erwartungen übertroffen.,Die siebte Folge der neuen Serie hat meine Erwartungen übertroffen.
+60,Geschichte der Mathematik im XVI. und XVII. Jahrhundert.,Geschichte der Mathematik im sechzehnten und siebzehnten Jahrhundert.
+61,Friedrich II. war eine widersprüchliche Persönlichkeit.,Friedrich der Zweite war eine widersprüchliche Persönlichkeit.
+62,Im letzen Monat haben wir 788 EUR ausgegeben.,Im letzten Monat haben wir siebn-hundert-acht-und-achtzig Euro ausgegeben.
+63,Diese Dienstleistung kostet nicht mehr als 1300 RUB.,Diese Dienstleistung kostet nicht mehr als ein-tausend-drei-hundert Rubel.
+64,Der aktuelle Goldpreis beträgt 1.501,00 USD pro Unze.,Der aktuelle Goldpreis beträgt ein-tausend-fünf-hundert-ein US Dollar pro Unze.
+65,Sehr geeherter Hr. Stöbert, vielen Dank für Ihre Nachricht.,Sehr geerter Herr Stöbert, vielen Dank für Ihre Nachricht.
+66,Könnten Sie bitte diese Informationen an Fr. Weniger weiterleiten.,Könnten Sie bitte diese Informationen an Frau Weniger weiterleiten.
+67,Wer hat Hrn. Böhm an die Besprechung erinnert?,Wer hat Herren Böhm an die Besprechung erinnert?
+68,Frl. Make sieht heute wunderschön aus.,Fräulein Make sieht heute wunderschön aus.
+69,Nach der Verteidigung seiner Doctorarbeit kann er seinen Namen jetzt mit "Dr." vershen.,Nach der Verteidigung seiner Doctorarbeit kann er seinen Namen jetzt mit "Doctor" vershen.
+70,In der Kindheite wollten wir Hunde, Katzen, Kaninchen usw. haben.,In der Kindheite wollten wir Hunde, Katzen, Kaninchen und so weiter haben.
+71,Wir hatten ca. 7 Stunden Freizeit.,Wir hatten zirka sieben Stunden Freizeit.
+72,Norbert Hummelt wurde eingeladen (inkl. Anreise, zwei Übernachtungen und Verpflegung).,Norbert Hummelt eingeladen (inklusive Anreise, zwei Übernachtungen und Verpflegung).
+73,Wohnungsmiete in diesem Bezierck kostet 20 Euro pro Quadratmeter mind.,Wohnungsmiete in diesem Bezierck kostet zwanzig euro pro Quadratmeter mindenstens.
+74,Viele aus der Klasse sind sog. „Einzelkämpfer“ .,Viele aus der Klasse sind so genannte „Einzelkämpfer“ .
+75,Wir brauchen die Leistung zu steigern, d. h. die 20 neuen Verkaufsideen am Ende der Woche liefern.,Wir brauchen die Leistung zu steigern, das heißt die zwanzig neuen Verkaufsideen am Ende der Woche liefern.
+76,Man kann den Urlaub auch in eigener Heimat verbringen, z. B. den Schwarzwald erkunden.,Man kann den Urlaub auch in eigener Heimat verbringen, zum Beispiel den Schwarzwald erkunden.
+77,Sie müssen in den Raum Nr. 34 gehen.,Sie müssen in den Raum Nummer vier-und-dreißig gehen.
+78,Der Fernseher ist mit einem 120 Hz Panel ausgestattet.,Der Fernseher ist mit einem hundert-zwanzig Hertz Panel ausgestattet.
+79,Das höchstmoderne Stadion soll rund 1,1 Mrd. Euro gekostet haben.,Das höchstmoderne Stadion soll rund eins Komma eins Milliarden Euro gekostet haben.
+80,Was würdest du machen, wenn du eine Mio. Euro bei Lotto gewinnen würdest?,Was würdest du machen, wenn du eine Mio. Euro bei Lotto gewinnen würdest?
+81,Diese Jacke ist ein neues Modell von H&M für den kommenden Winter.,Diese Jacke ist ein neues Modell von Hah und Em für den kommenden Winter.
+82,Der 3. Oktober ist der Tag der deutschen Einheit.,Der dritte Oktober ist der Tag der deutschen Einheit.
+83,Es geschah am 3. Oktober 1990 um null.,Es geschah am dritten Oktober neunzehn-hundert-neunzig um null.
+84,Der erste Advent ist üblicherweise am Sonntag zwischen dem 27. November und dem 3. Dezember.,Der erste Advent ist üblicherweise am Sonntag zwischen dem sieben-und-zwanzigsten November und dem dritten Dezember.
+85,Die Fastenzeit dauert vom 15. November bis 24. Dezember.,Die Fastenzeit dauert vom fünfzehnten November bis vier-und-zwanzigstem Dezember.
+86,Die Arbeit muss zum 16. April erledigt werden.,Die Arbeit muss zum sechzehnten April erledigt werden.
+87,Die Besprechung wurde auf den 2. März verschoben.,Die Besprechung wurde auf den zweiten März verschoben.
+88,Hier ist die Lotto-Annahmestelle, wo ich immer das Glück versuche.,Hier ist die Lotto-Annahmestelle, wo ich immer das Glück versuche.
+89,In den Notfällen kann ich die Mund-zu-Mund-Beatmung machen.,In den Notfällen kann ich die Mund-zu-Mund-Beatmung machen.
+90,Mit der folgenden Mehrzweck-Küchenmaschine Bestseller Tabelle hast Du die Möglichkeit einen schnellen Überblick zu bekommen.,Mit der folgenden Mehrzweck-Küchenmaschine Bestseller Tabelle hast Du die Möglichkeit einen schnellen Überblick zu bekommen.
+91,In der deutschen Warenkunde unterscheidet man Kaffee-Ersatz, Malzkaffee und Getreidekaffee.,In der deutschen Warenkunde unterscheidet man Kaffee-Ersatz, Malzkaffee und Getreidekaffee.
+92,Ich muss die Außnahmen im französisch-deutschen Wörterbuch nachschlagen.,Ich muss die Außnahmen im französisch-deutschen Wörterbuch nachschlagen.
+
+
+
+
+
+
+
+
+
+
+
+

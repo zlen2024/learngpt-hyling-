@@ -1,0 +1,26 @@
+{
+  "applications":[],
+  "services":[
+    {
+      "name":"com.huawei.wisemlops.modelaccess",
+      "routeBy":"ser_country>reg_country>issue_country>geo_ip",
+      "servings":[
+        {
+          "countryOrAreaGroup":"DR1",
+          "addresses":{
+            "wisemep":"https://wisemlops-model-drcn.dt.dbankcloud.cn"
+          }
+        }
+      ],
+      "countryOrAreaGroups":[
+        {
+          "id":"DR1",
+          "name":"China",
+          "countriesOrAreas":["CN"],
+          "description":"China zone"
+        }
+      ]
+    }
+  ],
+  "countryOrAreaGroups":[]
+}

@@ -1,0 +1,10 @@
+ok
+http
+https
+ssh
+ftp
+www
+Spb
+spb
+uk
+usa

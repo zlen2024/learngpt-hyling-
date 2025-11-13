@@ -1,0 +1,50 @@
+AL:Alabama
+AK:Alaska
+AR:Arkansas
+AZ:Arizona
+CA:Kalifornien
+CO:Kolorado
+CT:Konnectikut
+DE:Delawär
+FL:Florida
+GA:Dschordschia
+HI:Hawaii
+IA:Eiowa
+ID:Eidaho
+IL:Illinoi
+IN:Indiana
+KS:Kansas
+KY:Kentucky
+LA:Louisiana
+MA:Massatchusetts
+MD:Maryländ
+ME:Mein
+MI:Mitchigan
+MN:Minnesota
+MO:Missuri
+MS:Mississippi
+MT:Montana
+NC:Nord Karolina
+ND:Nord Dakota
+NE:Nebraska
+NH:Nju Hampschir
+NJ:Nju Dschersi
+NM:Nju Mexiko
+NV:Nevada
+NY:Nju Jork
+OH:Ohajo
+OK:Oklahoma
+OR:Oregon
+PA:Pennsylwänia
+RI:Roud Eiland
+SC:Süd Karolina
+SD:Süd Dakota
+TN:Tennessii
+TX:Täxas
+UT:Jutah
+VA:Wirdschinia
+VT:Wermont
+WA:Waschington
+WI:Wiskonsin
+WV:West Wirdschinia
+WY:Weioming

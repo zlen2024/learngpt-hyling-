@@ -1,0 +1,13 @@
+HUAWEI:whoo aaa way
+Huawei:whoo aaa way
+huawei:whoo aaa way
+NEXT:next
+GOOGLE:Google
+BAIDU:Baidu
+YANDEX:Yandex
+CHINA:China
+ALL:all
+NUMBER:number
+NUMBERS:numbers
+CANCEL:cancel
+[Ss][Ii][Mm]2:sim two

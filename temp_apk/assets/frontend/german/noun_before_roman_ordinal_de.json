@@ -1,0 +1,2286 @@
+{
+"Margarethe": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Maria": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Elisabeth": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Elizabeth": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Victoria": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Katharina": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anna": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Isabella": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johanna": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Maria Christina": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Berenike": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kleopatra": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theodora": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ranavalona": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Salote Tupou": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anchenespepi": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Arsinoë": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eurydike": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Meresanch": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Chenmetneferhedjet": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Chentkaus": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hetepheres": [
+        {
+            "gender": "FEMININE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wilhelm": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+
+],
+"Friedrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Franz": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Leopold": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Joseph": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Karl": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ferdinand": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Matthias": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Rudolf": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Maximillian": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Albrecht": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ludwig": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Heinrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Konrad": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Otto": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Lothar": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Chlodwig": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Childerich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Childebert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theuderich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theoderich": [
+      {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+      }
+],
+"Chlothar": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sigibert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Charibert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Chilperich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Guntram": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dagobert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Karlmann": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Victor Amadeus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Karl Emanuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Victor Emanuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Umberto": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Peter": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alexander": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Tomislav": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hans Adam": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Joseph Wenzel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Josef": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alois": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johann": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Louis": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Antoine": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Honore": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Florestan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Olav": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hakon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Waldemar": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Knut": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Erich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Christoph": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Olaf": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Erik": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Christian": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Richard": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eduard": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Heinrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Jakob": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Karl Ludwig": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Robert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hugo": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Philipp": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Napoleon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Konstantin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Georg": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ernst August": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Franz Joseph": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kasimir": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Władysław": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hedwig": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sigismund": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"August": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Stanislaus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alfons": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Emmanuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Michael": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alexei": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Fjodor": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Iwan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Paul": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nikolaus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Friedrich August": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anton": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"David": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Gustav": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Adolf Friedrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Oskar": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Amadeus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Stephan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Andreas": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ladislaus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Koloman": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Béla": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kuno": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ruprecht": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wenzel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dietrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Joachim": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hermann": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Friedrich Wilhelm": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Friedrich August": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Felipe": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Pippin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Louis-Philippe": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Harald": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Edmund": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sven": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Constantius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theodosius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Leo": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anastasios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Justin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Justinian": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Tiberios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Konstans": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Basileios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Romanos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johannes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Isaak": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nikephoros": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alexios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Manuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Andronikos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Osman": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Orhan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Murad": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Bayezid": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mehmed": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Selim": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Suleiman": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ahmed": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mustafa": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mahmud": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Abdülhamid": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Igor": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Swjatoslaw": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Jaropolk": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wladimir": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Jaroslaw": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Isjaslaw": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wsewolod": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wjatscheslaw": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mstislaw": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Juri": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Andrej": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dimitri": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Wassili": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Abdullah": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Letsie": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mswati": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Tupou": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Faisal": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Rama": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Saqr": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sultan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Chalid": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Augustin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Fu’ad": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mohammed": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dedo": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johann Georg": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ernst": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Boris": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Simeon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Burkhard": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eitel Friedrich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Jobst Nikolaus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Meinrad": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Humbert": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Felix": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Viktor Amadeus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Viktor Emanuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Thomas": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Karl Emanuel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johann Karl": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Danilo": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sava": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Petar": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nikola": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Simeon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Clemens": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sixtus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Pius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Calixt": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Urban": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Lucius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Stephan": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Marcellus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Silvester": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Julius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anastasius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Bonifatius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Coelestin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Gelasius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johannes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Agapitus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Pelagius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Honorius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Martin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eugen": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sergius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Benedikt": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Gregor": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Damasus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Paschalis": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Innozenz": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anaklet": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hadrian": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Johannes Paul": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anastasios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Christophoros": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dorotheos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Makarios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Elias": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dionysios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ignatius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Athanasius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kyrillos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ignatius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Justos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Makarios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sophronios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Thomas": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sergios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Leontios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nikephoros": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ioannikios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Markos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Euthymios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theophanes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theophilos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Polykarp": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Marcus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Cyriacus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eugenius": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Rufinus": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Paulos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Gennadios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anthimos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Germanos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Antonios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ignatios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eustathios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Alexios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kosmas": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theodotos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Niketas": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Neophytos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Methodios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Theophilos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nephon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Jeremias": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Gabriel": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Meletios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Timotheos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Agathangelos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Vasilos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Demetrios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Bartholomeos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Photios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Skorpion": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Teti": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nemtiemsaef": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Pepi": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Neferkare": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Mentuhotep": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Anjotef": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Amenemhet": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Senwosret": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Hor": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sobekhotep": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Neferhotep": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sesostris": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Apopi": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Benjamin": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nikare": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sobekemsaf": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nebirirau": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ahmose": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Amenophis": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Thutmosis": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Eje": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ramses": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Sethos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+
+"Smendes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Psusennes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Pinudjem": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Scheschonq": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Osorkon": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Auput": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Harsiese": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Petubastis": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Iupet": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nitokris": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Necho": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Psammetich": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Kambyses": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Dareios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Xerxes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Artaxerxes": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Inaros": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nepherites": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Nektanebos": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Ptolemaios": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+],
+"Herodes Agrippa": [
+        {
+            "gender": "MASCULINE",
+            "gramcase": "NOMINATIV",
+            "gramnumber": "SINGULAR"
+        }
+]
+}

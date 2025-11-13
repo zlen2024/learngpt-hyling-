@@ -1,0 +1,197 @@
+0,0,zéro
+1,1,un
+2,2,deux
+3,3,trois
+4,4,quatre
+5,5,cinq
+6,6,six
+7,7,sept
+8,8,huit
+9,9,neuf
+10,10,dix
+11,11,onze
+12,12,douze
+13,13,treize
+14,14,quatorze
+15,15,quinze
+16,16,seize
+17,17,dix-sept
+18,18,dix-huit
+19,19,dix-neuf
+20,20,vingt
+21,21,vingt-et un
+22,22,vingt-deux
+23,23,vingt-trois
+24,24,vingt-quatre
+25,25,vingt-cinq
+26,26,vingt-six
+27,27,vingt-sept
+28,28,vingt-huit
+29,29,vingt-neuf
+30,30,trente
+31,31,trente-et un
+32,32,trente-deux
+33,33,trente-trois
+34,34,trente-quatre
+35,35,trente-cinq
+36,36,trente-six
+37,37,trente-sept
+38,38,trente-huit
+39,39,trente-neuf
+40,40,quarante
+41,41,quarante-et un
+42,42,quarante-deux
+43,43,quarante-trois
+44,44,quarante-quatre
+45,45,quarante-cinq
+46,46,quarante-six
+47,47,quarante-sept
+48,48,quarante-huit
+49,49,quarante-neuf
+50,50,cinquante
+51,51,cinquante-et un
+52,52,cinquante-deux
+53,53,cinquante-trois
+54,54,cinquante-quatre
+55,55,cinquante-cinq
+56,56,cinquante-six
+57,57,cinquante-sept
+58,58,cinquante-huit
+59,59,cinquante-neuf
+60,60,soixante
+61,61,soixante-et un
+62,62,soixante-deux
+63,63,soixante-trois
+64,64,soixante-quatre
+65,65,soixante-cinq
+66,66,soixante-six
+67,67,soixante-sept
+68,68,soixante-huit
+69,69,soixante-neuf
+70,70,soixante-dix
+71,71,soixante-et onze
+72,72,soixante-douze
+73,73,soixante-treize
+74,74,soixante-quatorze
+75,75,soixante-quinze
+76,76,soixante-seize
+77,77,soixante-dix-sept
+78,78,soixante-dix-huit
+79,79,soixante-dix-neuf
+80,80,quatre-vingts
+81,81,quatre-vingt-un
+82,82,quatre-vingt-deux
+83,83,quatre-vingt-trois
+84,84,quatre-vingt-quatre
+85,85,quatre-vingt-cinq
+86,86,quatre-vingt-six
+87,87,quatre-vingt-sept
+88,88,quatre-vingt-huit
+89,89,quatre-vingt-neuf
+90,90,quatre-vingt-dix
+91,91,quatre-vingt-onze
+92,92,quatre-vingt-douze
+93,93,quatre-vingt-treize
+94,94,quatre-vingt-quatorze
+95,95,quatre-vingt-quinze
+96,96,quatre-vingt-seize
+97,97,quatre-vingt-dix-sept
+98,98,quatre-vingt-dix-huit
+99,99,quatre-vingt-dix-neuf
+100,100,cent
+101,101,cent un
+102,102,cent deux
+103,103,cent trois
+104,104,cent quatre
+105,105,cent cinq
+106,110,cent dix
+107,111,cent onze
+108,112,cent douze
+109,113,cent treize
+110,114,cent quatorze
+111,115,cent quinze
+112,120,cent vingt
+113,121,cent vingt-et un
+114,122,cent vingt-deux
+115,131,cent trente-et un
+116,141,cent quarante-et un
+117,151,cent cinquante-et un
+118,161,cent soixante-et un
+119,162,cent soixante-deux
+120,163,cent soixante-trois
+121,164,cent soixante-quatre
+122,165,cent soixante-cinq
+123,166,cent soixante-six
+124,167,cent soixante-sept
+125,168,cent soixante-huit
+126,169,cent soixante-neuf
+127,170,cent soixante-dix
+128,171,cent soixante-et onze
+129,172,cent soixante-douze
+130,173,cent soixante-treize
+131,174,cent soixante-quatorze
+132,175,cent soixante-quinze
+133,176,cent soixante-seize
+134,177,cent soixante-dix-sept
+135,178,cent soixante-dix-huit
+136,179,cent soixante-dix-neuf
+137,180,cent quatre-vingts
+138,181,cent quatre-vingt-un
+139,185,cent quatre-vingt-cinq
+140,190,cent quatre-vingt-dix
+141,191,cent quatre-vingt-onze
+142,192,cent quatre-vingt-douze
+143,193,cent quatre-vingt-treize
+144,194,cent quatre-vingt-quatorze
+145,195,cent quatre-vingt-quinze
+146,196,cent quatre-vingt-seize
+147,197,cent quatre-vingt-dix-sept
+148,198,cent quatre-vingt-dix-huit
+149,199,cent quatre-vingt-dix-neuf
+150,200,deux cents
+151,300,trois cents
+152,400,quatre cents
+153,500,cinq cents
+154,600,six cents
+155,700,sept cents
+156,800,huit cents
+157,900,neuf cents
+158,201,deux cent un
+159,301,trois cent un
+160,401,quatre cent un
+161,501,cinq cent un
+162,601,six cent un
+163,701,sept cent un
+164,801,huit cent un
+165,901,neuf cent un
+166,571,cinq cent soixante-et onze
+167,581,cinq cent quatre-vingt-un
+168,591,cinq cent quatre-vingt-onze
+169,10301,dix mille trois cent un
+170,10000,dix mille
+171,2000,deux mille
+172,3000,trois mille
+173,3001,trois mille un
+174,180,cent quatre-vingts
+175,280,deux cent quatre-vingts
+176,1580,mille cinq cent quatre-vingts
+177,10080,dix mille quatre-vingts
+178,10100,dix mille cent
+179,10200,dix mille deux cents
+180,15300,quinze mille trois cents
+181,71101,soixante-et onze mille cent un
+182,5081,cinq mille quatre-vingt-un
+183,7093,sept mille quatre-vingt-treize
+184,8072,huit mille soixante-douze
+185,3131,trois mille cent trente-et un
+186,356781,trois cent cinquante-six mille sept cent quatre-vingt-un
+187,892700,huit cent quatre-vingt-douze mille sept cents
+188,999999,neuf cent quatre-vingt-dix-neuf mille neuf cent quatre-vingt-dix-neuf
+189,1000001,un million un
+190,1000300,un million trois cents
+191,3000700,trois millions sept cents
+192,8000672,huit millions six cent soixante-douze
+193,5000580,cinq millions cinq cent quatre-vingts
+194,11000320,onze millions trois cent vingt
+195,7700500,sept millions sept cent mille cinq cents
+196,8900541,huit millions neuf cent mille cinq cent quarante-et un

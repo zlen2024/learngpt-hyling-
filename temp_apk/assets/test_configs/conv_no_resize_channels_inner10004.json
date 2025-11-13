@@ -1,0 +1,1 @@
+{"inputTensors":[{"name":"input_image:0","shape":[1,240,240,3],"dtype":"float32","int32data":[],"float32data":[]}],"outputTensors":[{"name":"BiasAdd_4:0","shape":[1,240,240,9],"dtype":"float32","int32data":[],"float32data":[]}],"keyFeatureName":"channels_number","keyFeatureValue":"4"}

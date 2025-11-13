@@ -1,0 +1,14 @@
+{
+  "repeatSymbol":
+  {
+  "\\(\\-∞-\\+∞\\)": "from negative infinity to positive infinity",
+  "\\(\\-∞-\\s\\+∞\\)":"from negative infinity to positive infinity"
+  },
+  "mathSymbol":
+  {
+  "/": "divided by",
+  "\\*": "times",
+  "\\+": "plus",
+  "\\-": "minus"
+  }
+}

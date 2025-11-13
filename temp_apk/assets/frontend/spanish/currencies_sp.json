@@ -1,0 +1,224 @@
+{
+  "£": [
+    "libra esterlina",
+    "libras esterlinas",
+    "penique",
+    "peniques"
+  ],
+  "GBP": [
+    "libra esterlina",
+    "libras esterlinas",
+    "penique",
+    "peniques"
+  ],
+  "JPY": [
+    "yen japonés",
+    "yenes japoneses",
+    "sen",
+    "senes"
+  ],
+  "¥": [
+    "yuan chino",
+    "yuanes chinos",
+    "jiao",
+    "jiao"
+  ],
+  "￥": [
+    "yuan chino",
+    "yuanes chinos",
+    "jiao",
+    "jiao"
+  ],
+  "CNY": [
+    "yuan chino",
+    "yuanes chinos",
+    "jiao",
+    "jiao"
+  ],
+  "€": [
+    "euro",
+    "euros",
+    "céntimo",
+    "céntimos"
+  ],
+  "EUR": [
+    "euro",
+    "euros",
+    "céntimo",
+    "céntimos"
+  ],
+  "$": [
+    "dólar",
+    "dólares",
+    "centavo",
+    "centavos"
+  ],
+  "USD": [
+    "dólar estadounidense",
+    "dólares estadounidenses",
+    "centavo",
+    "centavos"
+  ],
+  "NOK": [
+    "corona noruega",
+    "coronas noruegas",
+    "ore",
+    "ores"
+  ],
+  "CHF": [
+    "franco suizo",
+    "francos suizos",
+    "rappen",
+    "rappenes"
+  ],
+  "₩": [
+    "won",
+    "wones",
+    "jeon",
+    "jeones"
+  ],
+  "KRW": [
+    "won",
+    "wones",
+    "jeon",
+    "jeones"
+  ],
+  "AUD": [
+    "dólar australiano",
+    "dólares australianos",
+    "centavo",
+    "centavos"
+  ],
+  "ARS": [
+    "peso argentino",
+    "pesos argentinos",
+    "centavo",
+    "centavos"
+  ],
+  "BOB": [
+    "boliviano",
+    "bolivianos",
+    "centavo",
+    "centavos"
+  ],
+  "BRL": [
+    "real brasileño",
+    "reales brasileños",
+    "centavo",
+    "centavos"
+  ],
+  "CAD": [
+    "dólar canadiense",
+    "dólares canadienses",
+    "cent",
+    "cents"
+  ],
+  "COP": [
+    "peso chileno",
+    "pesos chilenos",
+    "centavo",
+    "centavos"
+  ],
+  "₡": [
+    "colón costarricense",
+    "colones costarricenses",
+    "céntimo",
+    "céntimos"
+  ],
+  "CRC": [
+    "colón costarricense",
+    "colones costarricenses",
+    "céntimo",
+    "céntimos"
+  ],
+  "CUP": [
+    "peso cubano",
+    "pesos cubanos",
+    "centavo",
+    "centavos"
+  ],
+  "DOP": [
+    "peso dominicano",
+    "pesos dominicanos",
+    "centavo",
+    "centavos"
+  ],
+  "SVC": [
+    "colón de Salvador",
+    "colones de Salvador",
+    "centavo",
+    "centavos"
+  ],
+  "HNL": [
+    "lempira hondureña",
+    "lempiras hondureñas",
+    "centavo",
+    "centavos"
+  ],
+  "MXN": [
+    "peso mexicano",
+    "pesos mexicanos",
+    "centavo",
+    "centavos"
+  ],
+  "PAB": [
+    "balboa panameño",
+    "balboas panameñas",
+    "centésimo",
+    "centésimos"
+  ],
+  "PYG": [
+    "guaraní paraguayo",
+    "guaranís paraguayos",
+    "céntimo",
+    "céntimos"
+  ],
+  "₲": [
+    "guaraní paraguayo",
+    "guaranís paraguayos",
+    "céntimo",
+    "céntimos"
+  ],
+  "PEN": [
+    "Nuevo Sol peruano",
+    "Nuevos Soles peruanos",
+    "céntimo",
+    "céntimos"
+  ],
+  "RUB": [
+    "rublo ruso",
+    "rublos rusos",
+    "kopek",
+    "kopeks"
+  ],
+  "UYU": [
+    "peso uruguayo",
+    "pesos uruguayos",
+    "centésimo",
+    "centésimos"
+  ],
+  "VEF": [
+    "bolívar venezolano",
+    "bolívares venezolanos",
+    "céntimo",
+    "céntimos"
+  ],
+  "GTQ": [
+    "quetzal",
+    "quetzales",
+    "centavo",
+    "centavos"
+  ],
+  "HK$": [
+    "Dólar de Jong Kong",
+    "Dólares de Jong Kong",
+    "centavo",
+    "centavos"
+  ],
+  "HKD": [
+    "Dólar de Jong Kong",
+    "Dólares de Jong Kong",
+    "centavo",
+    "centavos"
+  ]
+}

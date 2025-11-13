@@ -1,0 +1,28 @@
+{"inputTensors": [
+  {"name":"Tacotron_model/inference/inputs:0",
+    "shape":[1, 13],
+    "dtype":"int32",
+    "int32data":[10, 47, 65, 36, 46, 65, 28, 39, 36, 49, 32, 54,  1],
+    "float32data":[]},
+  {"name":"Tacotron_model/inference/input_lengths:0",
+    "shape":[1],
+    "dtype":"int32",
+    "int32data":[13],
+    "float32data":[]}
+],
+  "outputTensors":[
+    {"name":"Tacotron_model/inference/LPC_features:0",
+      "shape":[],
+      "dtype":"float32",
+      "int32data":[],
+      "float32data":[]
+    },
+    {"name":"Tacotron_model/inference/output_max_length:0",
+      "shape":[],
+      "dtype":"float32",
+      "int32data":[],
+      "float32data":[]
+    }
+  ],
+  "keyFeatureName":"time_steps",
+  "keyFeatureValue":"4"}

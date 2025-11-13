@@ -1,0 +1,21 @@
+{
+  "£":["pound","pounds"],
+  "￡":["pound","pounds"],
+  "₤": ["pound","pounds"],
+  "GBP":["pound","pounds"],
+  "JPY":["yen","yen"],
+  "¥":["yuan", "yuans"],
+  "￥":["yen", "yen"],
+  "CNY":["yuan", "yuans"],
+  "€":["euro","euros"],
+  "EUR":["euro","euros"],
+  "$":["dollar","dollars"],
+  "USD":["dollar","dollars"],
+  "RUB":["ruble","rubles"],
+  "￠":["cent","cents"],
+  "฿":["taiwan dollar","taiwan dollars"],
+  "HK$": ["hong kong dollar","hong kong dollars"],
+  "US$": ["U S dollar","U S dollars"],
+  "HKD": ["hong kong dollar","hong kong dollars"],
+  "RMB": ["yuan","yuans"]
+}

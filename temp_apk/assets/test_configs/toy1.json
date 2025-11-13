@@ -1,0 +1,16 @@
+{"inputTensors": [
+  {"name":"Placeholder:0",
+    "shape":[1, 1, 1, 1],
+    "dtype":"float32",
+    "int32data":[1],
+    "float32data":[1.0]}
+],
+  "outputTensors":[
+    {"name":"BiasAdd:0",
+      "shape":[1, 1, 1, 1],
+      "dtype":"float32",
+      "int32data":[],
+      "float32data":[]
+    }
+  ]
+}

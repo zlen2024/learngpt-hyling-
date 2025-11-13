@@ -1,0 +1,32 @@
+{"inputTensors": [
+  {"name":"inputs:0",
+    "shape":[1, 37],
+    "dtype":"int32",
+    "int32data":[30, 39, 32, 28, 45, 39, 52, 65,
+      31, 32, 33, 36, 41, 32, 65, 29,
+      48, 46, 36, 41, 32, 46, 46, 65,
+      43, 42, 45, 47, 33, 42, 39, 36, 42, 46, 61, 65,  1],
+    "float32data":[]},
+  {"name":"input_lengths:0",
+    "shape":[1],
+    "dtype":"int32",
+    "int32data":[13],
+    "float32data":[]}
+],
+  "outputTensors":[
+    {"name":"Tacotron_model/inference/Minimum_1:0",
+      "shape":[],
+      "dtype":"float32",
+      "int32data":[],
+      "float32data":[]
+    },
+    {"name":"Tacotron_model/inference/Reshape_2:0",
+      "shape":[],
+      "dtype":"float32",
+      "int32data":[],
+      "float32data":[]
+    }
+  ],
+  "fetchResults" : true,
+  "keyFeatureName":"time_steps",
+  "keyFeatureValue":"4"}

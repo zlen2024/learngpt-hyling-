@@ -1,0 +1,91 @@
+Jan\.:January
+Feb\.:February
+Mar\.:March
+Apr\.:April
+Jun\.:June
+Jul\.:July
+Aug\.:August
+Sept.:September
+Oct\.:October
+Nov\.:November
+Dec\.:December
+c/o:care of
+approx\.:approximately
+acct\.:account
+appt\.:appointment
+apt\.:apartment
+e\.g\.:for example
+encl\.:enclosed
+etc\.:et cetera
+i\.e\.:that is
+Mr\.:Mister
+Mr:Mister
+Mrs\.:Missis
+Mrs:Missis
+Ms\.:Miss
+Ms:Miss
+Dr\.:Doctor
+Dr:Doctor
+pp:pages
+jr\.:junior
+capt\.:captain
+dept\.:department
+sgt\.:sergeant
+esq\.:esquire
+ltd\.:limited
+A\.S\.A\.P.:as soon as possible
+B\.Y\.O\.B.:bring your own bottle
+D\.I\.Y\.:Do it yourself
+est\.:established
+misc.:miscellaneous
+vs\.:versus
+tel\.:telephone
+fig\.:figure
+ft\.:featuring
+ft:fort
+Bros\.:brothers
+WWII:World War two
+WW2:World War two
+Blvd\.:Boulevard
+Cyn\.:Canyon
+Ln\.:Lane
+Rd\.:Road
+Ave\.:Avenue
+Sq\.:square
+Rd\.:road
+NY:New York
+N\.Y\.:New York
+&Co:and Company
+H&M:eihch and em
+R&D:arr and dee
+SPb:saint petersburg
+WiFi:why figh
+wifi:why figh
+wi-fi:why figh
+Wi-Fi:why figh
+hi:high
+hi\.:high
+hi!:high
+Hi:high
+Hi\.:high
+Hi!:high
+WeChat:we chat
+VK:v konthakthy
+Vkontakte:v contactee
+Ok:ow kay
+OK:ow kay
+JPEG:jei-peg
+jpeg:jei-peg
+CEO:seeoo
+NEO:neeoo
+ltd:limited
+TTS:tee tee ess
+tts:tee tee ess
+CBG:see bee jee
+cbg:see bee jee
+goodbye:good bye
+goodbye!:good bye
+goodbye\.:good bye
+Goodbye:good bye
+Goodbye!:good bye
+Goodbye\.:good bye

@@ -1,0 +1,765 @@
+﻿{
+  "COMPOSED": {
+    "g": [
+      "Gramm",
+      "Gramm"
+    ],
+    "g.": [
+      "Gramm",
+      "Gramm"
+    ],
+    "gr": [
+      "Gramm",
+      "Gramm"
+    ],
+    "m": [
+      "Meter",
+      "Meter"
+    ],
+    "qkm": [
+      "Quadrat-kilo-meter",
+      "Quadrat-kilo-meter"
+    ],
+    "km²": [
+      "Quadrat-kilo-meter",
+      "Quadrat-kilo-meter"
+    ],
+    "m2": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "cm2": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "m²": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "cm²": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "m3": [
+      "Kubik-meter",
+      "Kubik-meter"
+    ],
+    "cm3": [
+      "Kubik-Zenti-meter",
+      "Kubik-Zenti-meter"
+    ],
+    "m³": [
+      "Kubik-meter",
+      "Kubik-meter"
+    ],
+    "cm³": [
+      "Kubik-Zenti-meter",
+      "Kubik-Zenti-meter"
+    ],
+    "Ω": [
+      "Ohm",
+      "Ohm"
+    ],
+    "A": [
+      "Ampeer",
+      "Ampeer"
+    ],
+    "E.": [
+      "Ein-wohner",
+      "Ein-wohner"
+    ],
+    "Ew.": [
+      "Ein-wohner",
+      "Ein-wohner"
+    ],
+    "EW": [
+      "Ein-wohner",
+      "Ein-wohner"
+    ],
+    "Einw.": [
+      "Ein-wohner",
+      "Ein-wohner"
+    ],
+    "Rev.": [
+      "Rewolution",
+      "Rewolutionen"
+    ],
+    "F": [
+      "Farad",
+      "Farad"
+    ],
+    "F.": [
+      "Farad",
+      "Farad"
+    ],
+    "H": [
+      "Henry",
+      "Henry"
+    ],
+    "H.": [
+      "Henry",
+      "Henry"
+    ],
+    "px": [
+      "Pixel",
+      "Pixel"
+    ],
+    "PX" : [
+      "Pixel",
+      "Pixel"
+    ],
+    "MP" : [
+      "Megapixel",
+      "Megapixel"
+    ],
+    "GP" : [
+      "Gigapixel",
+      "Gigapixel"
+    ],
+    "ft": [
+      "Fuß",
+      "Fuße"
+    ],
+    "mi": [
+      "Meile",
+      " Meilen"
+    ],
+    "Pfd.": [
+      "Pfund",
+      "Pfunde"
+    ],
+    "Pf.": [
+      "Pfund",
+      "Pfunde"
+    ],
+    "lb": [
+      "Pfund",
+      "Pfunde"
+    ],
+    "lbs": [
+      "Pfund",
+      "Pfunde"
+    ],
+    "oz.": [
+      "Unze",
+      "Unzen"
+    ],
+    "oz": [
+      "Unze",
+      "Unzen"
+    ],
+    "pt.": [
+      "Pint",
+      "Pinte"
+    ],
+    "Gall.": [
+      "Gallone",
+      "Gallonen"
+    ],
+    "yd.": [
+      "Jard",
+      "Jards"
+    ],
+    "y.": [
+      "Jard",
+      "Jards"
+    ],
+    "yds.": [
+      "Jard",
+      "Jards"
+    ],
+    "mol": [
+      "Mol",
+      "Mole"
+    ],
+    "s": [
+      "Sekunde",
+      "Sekunden"
+    ],
+    "Std.": [
+      "Stunde",
+      "Stunden"
+    ],
+    "Hz": [
+      "Hertz",
+      "Hertz"
+    ],
+    "N": [
+      "Njütn",
+      "Njütn"
+    ],
+    "J": [
+      "Dschul",
+      "Dschul"
+    ],
+    "W": [
+      "Watt",
+      "Watt"
+    ],
+    "pa": [
+      "Paskal",
+      "Paskal"
+    ],
+    "Pa": [
+      "Paskal",
+      "Paskal"
+    ],
+    "V": [
+      "Wolt",
+      "Wolt"
+    ],
+    "O": [
+      "Ohm",
+      "Ohm"
+    ],
+    "K": [
+      "Kelwin",
+      "Kelwin"
+    ],
+    "min": [
+      "Minute",
+      "Minuten"
+    ],
+    "l": [
+      "Liter",
+      "Liter"
+    ],
+    "Lt.": [
+      "Liter",
+      "Liter"
+    ],
+    "Ltr.": [
+      "Liter",
+      "Liter"
+    ],
+    "t": [
+      "Tonne",
+      "Tonnen"
+    ],
+    "ha": [
+      "Hektar",
+      "Hektar"
+    ],
+    "b": [
+      "Bit",
+      "Bits"
+    ],
+    "B": [
+      "Beit",
+      "Beits"
+    ],
+    "bit": [
+      "Bit",
+      "Bits"
+    ],
+    "Bit": [
+      "Bit",
+      "Bits"
+    ],
+    "cal": [
+      "Kalorie",
+      "Kalorien"
+    ],
+    "bbl.": [
+      "Berrel",
+      "Berrels"
+    ],
+    "bl.": [
+      "Berrel",
+      "Berrels"
+    ],
+    "Dtz.": [
+      "Dutzend",
+      "Dutzend"
+    ],
+    "Dtzd.": [
+      "Dutzend",
+      "Dutzend"
+    ]
+  },
+  "SIMPLE": {
+    "Tg.": [
+      "Tag",
+      "Tage"
+    ],
+    "Tg": [
+      "Tag",
+      "Tage"
+    ],
+    "h": [
+      "Stunde",
+      "Stunden"
+    ],
+    "ft.": [
+      "Fuß",
+      "Fuß"
+    ],
+    "gal.": [
+      "Gallone",
+      "Gallonen"
+    ],
+    "rad": [
+      "Radiant",
+      "Radianten"
+    ],
+    "in.": [
+      "Zoll",
+      "Zoll"
+    ],
+    "km/h": [
+      "Kilo-meter pro Stunde",
+      "Kilo-meter pro Stunde"
+    ],
+    "Ah": [
+      "Ampeer-stunde",
+      "Ampeer-stunden"
+    ],
+    "mAh": [
+      "Milli-ampeer-stunde",
+      "Milli-ampeer-stunden"
+    ],
+    "Tl.": [
+      "Tee-löffel",
+      "Tee-löffel"
+    ],
+    "TL": [
+      "Tee-löffel",
+      "Tee-löffel"
+    ],
+    "Teel.": [
+      "Tee-löffel",
+      "Tee-löffel"
+    ],
+    "El.": [
+      "Ess-löffel",
+      "Ess-löffel"
+    ],
+    "EL": [
+      "Ess-löffel",
+      "Ess-löffel"
+    ],
+    "Essl.": [
+      "Ess-löffel",
+      "Ess-löffel"
+    ],
+    "°C": [
+      "Grad Zelsius",
+      "Grad Zelsius"
+    ],
+    "° C": [
+      "Grad Zelsius",
+      "Grad Zelsius"
+    ],
+    "℃": [
+      "Grad Zelsius",
+      "Grad Zelsius"
+    ],
+    "ºC": [
+      "Grad Zelsius",
+      "Grad Zelsius"
+    ],
+    "С": [
+      "Grad Zelsius",
+      "Grad Zelsius"
+    ],
+    "℉": [
+      "Grad Fahrenheit",
+      "Grad Fahrenheit"
+    ],
+    "ºF": [
+      "Grad Fahrenheit",
+      "Grad Fahrenheit"
+    ],
+    "°F": [
+      "Grad Fahrenheit",
+      "Grad Fahrenheit"
+    ],
+    "°K": [
+      "Grad Kelwin",
+      "Grad Kelwin"
+    ],
+    "° F": [
+      "Grad Fahrenheit",
+      "Grad Fahrenheit"
+    ],
+    "° K": [
+      "Grad Kelwin",
+      "Grad Kelwin"
+    ],
+    "UpM": [
+      "Um-drehung pro Minute",
+      "Um-drehungen pro Minute"
+    ],
+    "rpm": [
+      "Um-drehung pro Minute",
+      "Um-drehungen pro Minute"
+    ],
+    "%": [
+      "Prozent",
+      "Prozent"
+    ],
+    "mph": [
+      "Meile pro Stunde",
+      "Meilen pro Stunde"
+    ],
+    "sm": [
+      "See-meile",
+      "See-meilen"
+    ],
+    "fps": [
+      "Bild pro Sekunde",
+      "Bilder pro Sekunde"
+    ],
+    "tbsp.": [
+      "Ess-löffel",
+      "Ess-löffel"
+    ],
+    "tsp.": [
+      "Tee-löffel",
+      "Tee-löffel"
+    ],
+    "ct": [
+      "Karat",
+      "Karate"
+    ],
+    "Kt": [
+      "Karat",
+      "Karate"
+    ],
+    "kt": [
+      "Karat",
+      "Karate"
+    ],
+    "ct.": [
+      "Karat",
+      "Karate"
+    ],
+    "mmHg": [
+      "Milli-meter Quecksilber-säule",
+      "Milli-meter Quecksilber-säule"
+    ],
+    "mm Hg": [
+      "Milli-meter Quecksilber-säule",
+      "Milli-meter Quecksilber-säule"
+    ],
+    "m ü. d. M.": [
+      "Meter über dem Meeres-spiegel",
+      "Meter über dem Meeres-spiegel"
+    ],
+    "ü. d. M.": [
+      "über dem Meeres-spiegel",
+      "über dem Meeres-spiegel"
+    ],
+    "ü. M.": [
+      "über dem Meeres-spiegel",
+      "über dem Meeres-spiegel"
+    ],
+    "N m": [
+      "Njütn-meter",
+      "Njütn-meter"
+    ],
+    "N cm": [
+      "Njütn-Zenti-meter",
+      "Njütn-Zenti-meter"
+    ],
+    "Nm": [
+      "Njütn-meter",
+      "Njütn-meter"
+    ],
+    "Ncm": [
+      "Njütn-Zenti-meter",
+      "Njütn-Zenti-meter"
+    ],
+    "fl oz": [
+      "flüssige Unze",
+      "flüssige Unzen"
+    ],
+    "fl.oz.": [
+      "flüssige Unze",
+      "flüssige Unzen"
+    ],
+    "fl. oz.": [
+      "flüssige Unze",
+      "flüssige Unzen"
+    ],
+    "FL.OZ.": [
+      "flüssige Unze",
+      "flüssige Unzen"
+    ],
+    "KWH": [
+      "Kilo-watt-stunde",
+      "Kilo-watt-stunden"
+    ],
+    "kWh": [
+      "Kilo-watt-stunde",
+      "Kilo-watt-stunden"
+    ],
+    "Z.": [
+      "Zoll",
+      "Zoll"
+    ],
+    "% Vol.": [
+      "Wolumen-prozent",
+      "Wolumen-prozent"
+    ],
+    "Vol.-%": [
+      "Wolumen-prozent",
+      "Wolumen-prozent"
+    ],
+    "㎎" : ["Milli-Gramm",
+      "Milli-Gramm"],
+
+    "㎎." : ["Milli-Gramm",
+      "Milli-Gramm"]
+  },
+  "additives": {
+    "h": [
+      "Hekto-"
+    ],
+    "k": [
+      "Kilo-"
+    ],
+    "K": [
+      "kilo-"
+    ],
+    "M": [
+      "Mega-"
+    ],
+    "G": [
+      "Giga-"
+    ],
+    "T": [
+      "Tera-"
+    ],
+    "P": [
+      "peta-"
+    ],
+    "d": [
+      "Dezi-"
+    ],
+    "c": [
+      "Zenti-"
+    ],
+    "m": [
+      "Milli-"
+    ],
+    "µ": [
+      "Mikro-"
+    ],
+    "μ": [
+      "Mikro-"
+    ],
+    "n": [
+      "Nano-"
+    ],
+    "p": [
+      "Piko-"
+    ],
+    "q": [
+      "Quadrat-"
+    ],
+    "Ki": [
+      "Kibi-"
+    ],
+    "Pi": [
+      "Pebi-"
+    ],
+    "Ei": [
+      "Exbi-"
+    ],
+    "Zi": [
+      "Zebi-"
+    ],
+    "Yi": [
+      "Yobi-"
+    ],
+    "E": [
+      "Exa-"
+    ],
+    "Z": [
+      "Zetta-"
+    ],
+    "Y": [
+      "Yotta-"
+    ],
+    "f": [
+      "Femto-"
+    ],
+    "z": [
+      "Zepto-"
+    ],
+    "y": [
+      "Yokto-"
+    ]
+  },
+  "PER_DENOMINATORS": {
+    "min": [
+      "Minute",
+      "Minuten"
+    ],
+    "Min.": [
+      "Minute",
+      "Minuten"
+    ],
+    "h": [
+      "Stunde",
+      "Stunden"
+    ],
+    "St": [
+      "Stunde",
+      "Stunden"
+    ],
+    "Std.": [
+      "Stunde",
+      "Stunden"
+    ],
+    "T.": [
+      "Tag",
+      "Tage"
+    ],
+    "Tg.": [
+      "Tag",
+      "Tage"
+    ],
+    "Tg": [
+      "Tag",
+      "Tage"
+    ],
+    "M.": [
+      "Monat",
+      "Monate"
+    ],
+    "Mo.": [
+      "Monat",
+      "Monate"
+    ],
+    "Mt.": [
+      "Monat",
+      "Monate"
+    ],
+    "Mon.": [
+      "Monat",
+      "Monate"
+    ],
+    "J.": [
+      "Jahr",
+      "Jahre"
+    ],
+    "Jr.": [
+      "Jahr",
+      "Jahre"
+    ],
+    "W": [
+      "Woche",
+      "Wochen"
+    ],
+    "Wo.": [
+      "Woche",
+      "Wochen"
+    ],
+    "s": [
+      "Sekunde",
+      "Sekunden"
+    ],
+    "s.": [
+      "Sekunde",
+      "Sekunden"
+    ],
+    "Sec.": [
+      "Sekunde",
+      "Sekunden"
+    ],
+    "m2": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "cm2": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "m²": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "cm²": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "m3": [
+      "Kubik-meter",
+      "Kubik-meter"
+    ],
+    "cm3": [
+      "Kubik-Zenti-meter",
+      "Kubik-Zenti-meter"
+    ],
+    "m³": [
+      "Kubik-meter",
+      "Kubik-meter "
+    ],
+    "km2": [
+      "Quadrat-kilometer",
+      "Quadrat-kilometer"
+    ],
+    "km²": [
+      "Quadrat-kilometer",
+      "Quadrat-kilometer"
+    ],
+    "km3": [
+      "Kubik-kilometer",
+      "Kubik-kilometer"
+    ],
+    "km³": [
+      "Kubik-kilometer",
+      "Kubik-kilometer"
+    ],
+    "㎡": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "c㎡": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "Quadratmeter": [
+      "Quadrat-meter",
+      "Quadrat-meter"
+    ],
+    "Quadratzentimeter": [
+      "Quadrat-Zenti-meter",
+      "Quadrat-Zenti-meter"
+    ],
+    "Quadratkilometer": [
+      "Quadrat-kilometer",
+      "Quadrat-kilometer"
+    ],
+    "Sekunde": [
+      "Sekunde",
+      "Sekunden"
+    ],
+    "Minute": [
+      "Minute",
+      "Minuten"
+    ],
+    "Stunde": [
+      "Stunde",
+      "Stunden"
+    ],
+    "Tag": [
+      "Tag",
+      "Tage"
+    ],
+    "Woche": [
+      "Woche",
+      "Wochen"
+    ],
+    "Monat": [
+      "Monat",
+      "Monate"
+    ],
+    "Jahr": [
+      "Jahr",
+      "Jahre"
+    ]
+  }
+}

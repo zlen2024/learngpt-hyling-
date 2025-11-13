@@ -1,0 +1,10 @@
+﻿ok
+http
+https
+ID
+IQ
+USB
+GPS
+HP
+HBO
+NCL

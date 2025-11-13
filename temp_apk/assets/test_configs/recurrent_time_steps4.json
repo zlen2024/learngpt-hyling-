@@ -1,0 +1,1 @@
+{"inputTensors":[{"name":"input_sequence:0","shape":[4,1],"dtype":"float32","int32data":[], "float32data":[99.0, 140.0, 3.0, 4.0]}],"outputTensors":[{"name":"bias_add:0","shape":[4,4],"dtype":"float32","int32data":[], "float32data":[]}],"keyFeatureName":"time_steps","keyFeatureValue":"4"}

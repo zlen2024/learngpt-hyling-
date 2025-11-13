@@ -1,0 +1,1231 @@
+﻿Jan\.?:Januar
+Febr?\.?:Februar
+Mrz\.?:März
+Apr\.?:April
+Jun\.?:Juni
+Jul\.?:Juli
+Aug\.?:August
+Sept?\.?:September
+Okt\.?:Oktober
+Nov\.?:November
+Dez\.?:Dezember
+Mo\.:Montag
+Di\.:Dienstag
+Mi\.:Mittwoch
+Do\.:Donnerstag
+Fr\.:Freitag
+Sa\.:Samstag
+So\.:Sonntag
+KW:Kalenderwoche
+Hr\.:Herr
+Fr\.:Frau
+Frl\.:Fräulein
+Hrn\.:Herrn
+Dr\.:Doktor
+usw\.:und so weiter
+ca\.:zirka
+inkl\.:inklusive
+mind\.:mindestens
+sog\.:so genannt
+d\. h\.:das heißt
+z\. B\.:zum Beispiel
+bzw\.:beziehungsweise
+Nr\.:Nummer
+SIM:sim
+WLAN:Wehlan
+Wi-Fi:Wei-Fei
+WiFi:Wei-Fei
+Mrd\.:Milliarde
+Mio\.:Million
+H&M:Hah und Em
+Bd\.:Band
+Bsp\.:Beispiel
+bspw\.:beispielsweise
+bzgl\.:bezüglich
+Dt\.:Deutsch
+dt\.:deutsch
+evtl\.:eventuell
+ggf\.:gegebenenfalls
+max\.:maximal
+min\.:minimal
+rd\.:rund
+s\. a\.:siehe auch
+s\. o\.:siehe oben
+s\. u\.:siehe unten
+Tel\.:Telefon
+u\. a\.:unter anderem
+u\. a\. m\.:und anderes mehr
+u\. v\. m\.:und vieles mehr
+v\. a\.:vor allem
+vgl\.:vergleiche
+vs\.:versus
+z\. Hd\.:zu Händen
+z\. T\.:zum Teil
+zzgl\.:zuzüglich
+allg\.:allgemein
+eigtl\.:eigentlich
+gegr\.:gegründet
+jmd\.:jemand
+jmdm\.:jemandem
+jmdn\.:jemanden
+jmds\.:jemandes
+urspr\.:ursprünglich
+zzt?\.:zurzeit
+i\. ?d\. ?R\.:in der Regel
+p\. ?P\.:pro Person
+mögl\.:möglich
+wtl\.:wörtlich
+wörtl\.:wörtlich
+v\. Chr\.:vor Kristus
+v\. Chr\. G\.:vor Kristi Geburt
+v\. Chr\. Geb\.:vor Kristi Geburt
+n\. Ch\.:nach Kristus
+n\. Chr\.:nach Kristus
+n\. Chr\. G\.:nach Kristi Geburt
+n\. Chr\. Geb\.:nach Kristi Geburt
+etc\.:et cetera
+Pizza:Piza
+Intermezzo:Intermezo
+Lazzi:Lazi
+Paparazzi:Paparazi
+Iphone:Eiphone
+App:Epp
+ID:Ei Di
+WeChat:Wi Tschat
+Google Maps:Gugl Meps
+OK:Ou Kej
+Okay:Ou Kej
+Bluetooth:Blü tus
+Hotspot:Hotßpot
+Spielergebnisse:Spieler-gebnisse
+Lakers:Läj-kärß
+Celtics:ssseltiks
+Houston:Hjüsten
+Timer:Teime
+Newton:Njütn
+Newtonmeter:Njütn-meter
+New York:Njü York
+Joule:Dschul
+Byte:Beit
+Bytes:Beits
+Jazz:Dschas
+Notizbuch:No tizbuch
+amg:ah em geh
+COVID:covid
+PLZ:Postleitzahl
+reg\.:Regierungszeit
+geb\.:Geburtsdatum
+gest\.:Todesdatum
+deaktiviert:de-aktiviert
+deaktivieren:de-aktivieren
+HUAWEI:huawei
+Pascal:Paskal
+http:Eitsch Tie Tie Pie
+https:Eitsch Tie Tie Pie Ess
+google:Gugl
+googleTTS:Gugl Tee Tee Ess
+huaweiTTS:huawei Tee Tee Ess
+www:Weh-Weh-Weh
+yandex:Jandex
+com:Kom
+youtube:Jutjub
+ebay:iebee-j
+abkrzung:abkürzung
+gmail:dschemäil
+icloud:Ei Klaud
+mail:Mäil
+meinemail:meinemäil
+krown:Kroun
+yulia:julia
+matveeva:matveewa
+vadimboy:wadimboi
+barabashka:barabaschka
+Apple:Epl
+Celsius:Zelsius
+Ren Zhengfei:Ren Dschengfej
+Shanghai:Schanghai
+Chongqing:Tschongsching
+Guangzhou:Guangdschou
+Shenzhen:Schendschen
+Foshan:Foschan
+Hangzhou:Hangdschou
+Nanjing:Nandsching
+Ampere:Ampeer
+Henry:Henri
+Pixel:Piksel
+Yard:Jard
+Volumen:Wolumen
+Volumen-Prozent:Wolumen-Prozent
+Kelvin:Kelwin
+Volt:Wolt
+William:Wiljem
+Shakespeare:Schejkspier
+Vaal:Waal
+Vaara:Waara
+Vaarandi:Waarandi
+Vabanquespiel:Wabank-spiel
+vacat:wacat
+vacatem:wacatem
+Vaccensäure:Waccensäure
+Vademecum:Wademekum
+Vademekum:Wademekum
+Vadianus:Wadianus
+Vadim:Wadim
+Vadium:Wadium
+vados:wados
+vae victis:wae wictis
+Vagabund:Wagabund
+Vagans:Wagans
+Vagant:Wagant
+vage:wage
+Vagheit:Wagheit
+vagieren:wagieren
+vagil:wagil
+Vagilität:Wagilität
+Vagina:Wagina
+vaginal:waginal
+Vaginismus:Waginismus
+Vaginitis:Waginitis
+Vaginoskopie:Wagino-skopie
+Vagotomie:Wagotomie
+Vagotonie:Wagotonie
+Vagotonika:Wagotonika
+Vagotoniker:Wago-toniker
+Vagotonikum:Wago-tonikum
+vagotrop:wagotrop
+Vagus:Wagus
+Vagusnerv:Wagus-nerv
+vakant:wakant
+Vakanz:Wakanz
+Vakat:Wakat
+Vakua:Wakua
+Vakuf:Wakuf
+Vakuole:Wakuole
+Vakuum:Wakuum
+Vakuumdestillation:Wakuum-destillation
+vakuumieren:wakuumieren
+Vakuumverpackung:Wakuum-verpackung
+Vakzin:Wakzin
+Vakzination:Wakzination
+vakzinieren:wakzinieren
+Vakzinierung:Wakzinierung
+Val:Wal
+Val d’Aosta:Wal d’Aosta
+Val d’Or:Wal d’Or
+Vala:Wala
+Valadon:Waladon
+Valdauf:Waldauf
+Valdelomar:Waldelomar
+Valdes:Waldes
+Valdivia:Waldivia
+Valdosta:Waldosta
+Valduna:Walduna
+Vale:Wale
+Valediktion:Walediktion
+valedizieren:waledizieren
+Valen:Walen
+Valencia:Walencia
+València:Walència
+Valens:Walens
+Valente:Walente
+Valentia:Walentia
+Valentin:Walentin
+Valentina:Walentina
+Valentine:Walentine
+Valentinian:Walentinian
+Valentino:Walentino
+Valentinus:Walentinus
+Valenz:Walenz
+Valera:Walera
+Valeria:Waleria
+Valerian:Walerian
+Valeriana:Waleriana
+Valeriane:Waleriane
+Valeriansäure:Walerian-säure
+Valeriat:Waleriat
+Valerie:Walerie
+Valerio:Walerio
+Valerius:Walerius
+Valesia:Walesia
+Valeska:Waleska
+Valet:Walet
+valete:walete
+Valgusstellung:Walgus-stellung
+Vali:Wali
+valid:walid
+Validation:Walidation
+validieren:walidieren
+Validierung:Walidierung
+Validität:Walidität
+Valin:Walin
+Valium:Walium
+Valka:Walka
+Valkyrie:Walkyrie
+Vall d'Aran:Wall d'Aran
+Valla:Walla
+Valle:Walle
+Valledupar:Walledupar
+Vallenar:Wallenar
+Vallentin:Wallentin
+Vallentuna:Wallentuna
+Valletta:Walletta
+Vallia:Wallia
+Vallisneri:Wallisneri
+Vallisneria:Wallisneria
+Vallombrosa:Wallombrosa
+Vallone:Wallone
+Valnera:Walnera
+Valona:Walona
+Valor:Walor
+Valoren:Waloren
+Valorenversicherung:Waloren-versicherung
+Valorisation:Walorisation
+valorisieren:walorisieren
+Valparaiso:Walparaiso
+Vals:Wals
+Valsalva:Walsalva
+Valtellina:Waltellina
+valutieren:walutieren
+Valvassoren:Walvassoren
+Valvation:Walvation
+Valverde:Walverde
+valvieren:walvieren
+Vamberk:Wamberk
+Vammala:Wammala
+Vampir:Wampir
+Vampirin:Wampirin
+Vampirismus:Wampirismus
+Vampyr:Wampir
+Van Doren:Wan Doren
+Van Vechten:Wan Vechten
+Van Vleck:Wan Wleck
+Van Wert:Wan Wert
+Vanadat:Wanadat
+Vanadin:Wanadin
+Vanadinit:Wanadinit
+Vanadium:Wanadium
+Vanadzor:Wanadzor
+Van-Allen-Gürtel:Wan-Allen-Gürtel
+Vancouver:Wankuwer
+Vandale:Wandale
+vandalisch:wandalisch
+Vandalismus:Wandalismus
+Vandenberg:Wandenberg
+Vanderbilt:Wanderbilt
+Vanen:Wanen
+Vänern:Wänern
+Vänersborg:Wänersborg
+Vänersee:Wänersee
+Vanessa:Wanessa
+Vangione:Wangione
+Vanha Rauma:Wanha Rauma
+Vanillasex:Wanilla-sex
+Vanille:Wanille
+Vanilleeis:Wanille-eis
+Vanillin:Wanillin
+vanitas vanitatum:wanitas wanitatum
+Vanni:Wanni
+Vanvitelli:Wanvitelli
+Vanzetti:Wanzetti
+Vaporetto:Waporetto
+Vaporimeter:Waporimeter
+Vaporisation:Waporisation
+vaporisieren:waporisieren
+Var:War
+Varangerfjord:Waranger-fjord
+Varberg:Warberg
+Varda:Warda
+Varde:Warde
+Varela:Warela
+Varenius:Warenius
+Varese:Warese
+Varga:Warga
+Vargas:Wargas
+Varia:Waria
+variabel:wariabel
+Variabilität:Wariabilität
+Variable:Wariable
+variant:wariant
+Variante:Wariante
+Varianz:Warianz
+variatio delectat:wariatio delectat
+Variation:Wariation
+Variationsbreite:Wariations-breite
+variationsfähig:wariations-fähig
+variativ:wariativ
+Variator:Wariator
+Variatoren:Wariatoren
+Varietät:Warietät
+variieren:wariieren
+variiren:wariiren
+varikös:warikös
+Varikose:Warikose
+Varikosität:Warikosität
+Varikozele:Warikozele
+Varinas:Warinas
+Väring:Wäring
+Variograf:Wariograf
+Variola:Wariola
+Variolae:Wariolae
+Variolation:Wariolation
+Variole:Wariole
+Variolen:Wariolen
+Variometer:Wariometer
+varistisch:waristisch
+Varistor:Waristor
+Varistoren:Waristoren
+Varius:Warius
+Varix:Warix
+Varizelle:Warizelle
+Varizen:Warizen
+Varkaus:Warkaus
+Värmland:Wärm-land
+Värnamo:Wärnamo
+Varnay:Warnai
+Värnlund:Wärnlund
+Varnsdorf:Warns-dorf
+Varona:Warona
+Varro:Warro
+Vars:Wars
+Varta:Warta
+Varuna:Waruna
+Varus:Warus
+Varviso:Warwiso
+Vasa:Wasa
+vasal:wasal
+Vasall:Wasall
+Vasallenstaat:Wasallen-staat
+vasallisch:wasallisch
+Vasallität:Wasallität
+Väschen:Wäschen
+Vasco da Gama:Wasco da Gama
+Vase:Wase
+Vasektomie:Wasektomie
+Vaselin:Waselin
+Vaseline:Waseline
+Vasenol:Wasenol
+Vasile:Wasile
+Vasks:Wasks
+vaskular:waskular
+vaskulär:waskulär
+Vaskularisation:Waskularisation
+vaskulös:waskulös
+Vasodilatator:Wasodilatator
+Vasodilatatoren:Wasodilatatoren
+Vasokonstriktor:Wasokonstriktor
+Vasokonstriktoren:Wasokonstriktoren
+Vasoligatur:Wasoligatur
+Vasomotion:Wasomotion
+Vasomotoren:Wasomotoren
+vasomotorisch:wasomotorisch
+Vasoneurose:Wasoneurose
+Vasoplegie:Wasoplegie
+Vasopressin:Wasopressin
+Vasotomie:Wasotomie
+Vastation:Wastation
+Västerbotten:Wästerbotten
+Västergötland:Wästergötland
+Västernorrland:Wästernorrland
+Västervik:Wästerwik
+Västmanland:Wästman-land
+Vatan:Watan
+Vaticano:Watikano
+Vatikan:Watikan
+vatikanisch:watikanisch
+Vatikanstaat:Watikan-staat
+Vatikanum:Watikanum
+Vatizinien:Watizinien
+Vatizinium:Watizinium
+Vatra Dornei:Watra Dornei
+Vättern:Wättern
+Vättersee:Wättersee
+Vauthier:Wauthier
+Vautier:Wautier
+Vavro:Wawro
+Vaxholm:Waxholm
+vazieren:wazieren
+Vazov:Wazow
+Veblen:Weblen
+Veda:Weda
+vedisch:wedisch
+Vedova:Wedova
+Vedral:Wedral
+Vedutenmalerei:Wedutenmalerei
+Vefsn:Wefsn
+Vega:Wega
+Vega Alta:Wega Alta
+vegan:wegan
+Veganer:Weganer
+vegetabil:wegetabil
+Vegetabilien:Wegetabilien
+vegetabilisch:wegetabilisch
+Vegetarianer:Wegetarianer
+Vegetarianismus:Wegetarianismus
+Vegetarier:Wegetarier
+vegetarisch:wegetarisch
+Vegetarismus:Wegetarismus
+Vegetation:Wegetation
+Vegetationsperiode:Wegetations-periode
+vegetativ:wegetativ
+vegetieren:wegetieren
+Vegius:Wegius
+Vehikel:Wehikel
+Veji:Weji
+Vejvoda:Wejwoda
+Vektor:Wektor
+Vektoren:Wektoren
+Vektorgleichung:Wektor-gleichung
+vektoriell:wektoriell
+Vela:Wela
+Vela palatina:Wela palatina
+Velamen:Welamen
+velar:welar
+velarisieren:welarisieren
+Velarlaut:Welarlaut
+Velasco:Welasco
+Velek:Welek
+Velencer:Welenzer
+Velin:Welin
+Velinpapier:Welinpapier
+Velislav:Welislaw
+Velleität:Welleität
+Velleius:Welleius
+Velletri:Welletri
+Vellin:Wellin
+Velo:Welo
+Velodrom:Welodrom
+Velour:Welour
+veloutieren:weloutieren
+Veloutine:Weloutine
+Veloziped:Weloziped
+Velozipedist:Welozipedist
+Velum:Welum
+Velutus:Welutus
+Velvet:Welwet
+Ven:Wen
+Venado:Wenado
+Venantius:Wenantius
+Venda:Wenda
+Vendel:Wendel
+Vendetta:Wendetta
+Vendsyssel:Wendsissel
+Vene:Wene
+Veneder:Weneder
+Venedig:Wenedig
+Venektasie:Wenektasie
+Venenentzündung:Wenen-entzündung
+Venenum:Wenenum
+venerabel:wenerabel
+Venerabile:Wenerabile
+Venerologie:Wenerologie
+Veneter:Weneter
+Venezia:Wenezia
+Veneziano:Weneziano
+Venezuela:Wenezuela
+venezuelisch:wenezuelisch
+veni, vidi, vici:weni, widi, wizi
+Venia Legendi:Wenia Legendi
+venös:wenös
+Venosta:Wenosta
+Venta:Wenta
+Ventidius:Wentidius
+Ventil:Wentil
+Ventilabro:Wentilabro
+Ventilation:Wentilation
+Ventilator:Wentilator
+Ventile:Wentile
+ventilieren:wentilieren
+Vento:Wento
+ventral:wentral
+Ventriculi:Wentrikuli
+Ventrikel:Wentrikel
+Ventriloquismus:Wentriloqismus
+Ventriloquist:Wentriloqist
+Ventura:Wentura
+Venturi:Wenturi
+Venus:Wenus
+Ver sacrum:Wer sacrum
+Vera:Wera
+Veranda:Weranda
+Veratrin:Weratrin
+veräußerlichen:weräußerlichen
+Verazio:Werazio
+Verb:Werb
+Verba:Werba
+verbal:werbal
+Verbalien:Werbalien
+Verbalinjurie:Werbal-indschurie
+verbalisieren:werbalisieren
+Verbalismus:Werbalismus
+verbaliter:werbaliter
+Verbalsubstantiv:Werbal-substantiv
+Verbania:Werbania
+Verbano:Werbano
+Verbaskum:Werbaskum
+Verbene:Werbene
+Verde:Werde
+Verdi:Werdi
+Verdure:Werdure
+Verifikation:Werifikation
+verifizierbar:werifizierbar
+Verifizierbarkeit:Werifizierbarkeit
+verifizieren:werifizieren
+Verifizierung:Werifizierung
+Verismo:Werismo
+veristisch:weristisch
+veritabel:weritabel
+vermiform:wermiform
+Vernalisation:Wernalisation
+vernalisieren:wernalisieren
+Vernation:Wernation
+Verona:Werona
+Veronal:Weronal
+Veronese:Weronese
+veronesisch:weronesisch
+Veronica:Weronika
+Veronika:Weronika
+Verres:Werres
+Verruca:Werruka
+Verrucano:Werrukano
+Versalien:Wersalien
+versatil:wersatil
+Versatilität:Wersatilität
+versiert:wersiert
+Versiertheit:Wersiertheit
+Versifex:Wersifex
+Versifikation:Wersifikation
+versifizieren:wersifizieren
+Versikel:Wersikel
+Version:Wersion
+Verso:Werso
+Verspronck:Werspronck
+Versus:Wersus
+verte:werte
+vertebragen:wertebragen
+Vertebrat:Wertebrat
+Vertex:Wertex
+Vertumnalien:Wertumnalien
+Vertumnus:Wertumnus
+Verus:Werus
+Vesuv:Wesuv
+vexieren:wexieren
+Vexilla:Wexilla
+Vexillum:Wexillum
+via:wia
+Viagra:Wiagra
+Viana:Wiana
+Viatika:Wiatika
+Vibrafon:Wibrafon
+Vibrant:Wibrant
+Vibration:Wibration
+Vibrator:Wibrator
+vibrieren:wibrieren
+vice versa:weis wersa
+Vicky:Wicki
+Victimologie:Wiktimologie
+Victor:Wiktor
+Victoria:Wiktoria
+Victorine:Wiktorine
+Vida:Wida
+Vidal:Widal
+vide:wide
+Video:Wideo
+vidi:widi
+Vieira:Wieira
+Vienna:Wienna
+Vietnam:Wietnam
+Vigan:Wigan
+Vigil:Wigil
+Vigor:Wigor
+Vikar:Wikar
+Viking:Wiking
+Viktor:Wiktor
+Viktoria:Wiktoria
+Vila:Wila
+Villa:Willa
+Villari:Willari
+Villenkolonie:Willenkolonie
+Vilma:Wilma
+Viminal:Wiminal
+Vinnie:Winnie
+Vinothek:Winothek
+Vinyl:Winyl
+Viola:Wiola
+Viole:Wiole
+violent:wiolent
+violett:wiolett
+Violine:Wioline
+Violino:Wiolino
+VIP:WIP
+Viper:Wiper
+Vira:Wira
+Virginal:Wirginal
+viril:wiril
+Virilität:Wirilität
+virtual:wirtual
+virtuell:wirtuell
+virtuos:wirtuos
+Viru:Wiru
+Virus:Wirus
+Vis:Wis
+Visa:Wisa
+visibel:wisibel
+Visier:Wisier
+visieren:wisieren
+Vision:Wision
+Visite:Wisite
+Visitenkarte:Wisitenkarte
+viskos:wiskos
+Viskose:Wiskose
+Vista:Wista
+visualisieren:wisualisieren
+visuell:wisuell
+Visum:Wisum
+Vita:Wita
+Vitae:Witae
+Vitamin:Witamin
+Vitesco:Witesco
+Viti:Witi
+Vitiligo:Witiligo
+Vito:Wito
+Vitoria:Witoria
+Vitrine:Witrine
+Vitroid:Witroid
+Vitrum:Witrum
+Vittorio:Wittorio
+Vitus:Witus
+Vitztum:Witztum
+Vivaldi:Wiwaldi
+vivat:wiwat
+Vivazität:Wiwazität
+vivo:wiwo
+Vladimir:Wladimir
+Vladislav:Wladislav
+Vlasta:Wlasta
+Vltava:Wltawa
+Vodka:Wodka
+Vogesen:Wogesen
+Vokal:Wokal
+Vokativ:Wokativ
+Volcano:Wolkano
+Voliere:Woliere
+Volleyball:Wollejboll
+Volt:Wolt
+Volum:Wolum
+voluntativ:woluntativ
+Volvo:Wolwo
+Vonovia:Wonowia
+Vota:Wota
+Votiv:Wotiv
+Votum:Wotum
+Vox:Wox
+vozieren:wozieren
+Vulcan:Wulkan
+vulgär:wulgär
+Vulgarismus:Wulgarismus
+Vulgata:Wulgata
+vulgo:wulgo
+Vulkan:Wulkan
+Vulva:Wulva
+Vulvitis:Wulvitis
+Vulvovaginitis:Wulvowaginitis
+va banque:wa bank
+Vabanque:wa bank
+Vabanquespiel:wa bank spiel
+Vacaville:Wakawil
+Vaccarès:Wakares
+Vaccination:Wakzination
+Vaccine:Wakzine
+vag:wak
+Vagabondage:Wagabondasch
+Vailland:Wajland
+Vaillant:Wajlant
+Vair:Wer
+Vaison-la-Romaine:Weson-la-Romän
+Vajrayana:Wadschrajana
+Val Camonica:Wal Karmonika
+Valais:Wale
+Val-Bélair:Wal-Belär
+Valcour:Welkor
+Val-d’Isère:Wal-d'Iser
+Val-d’Oise:Wal-d'U-as
+Val-de-Grâce:Wal-dö-Gras
+Valence:Walans
+Valenciennes:Walansjen
+Valeur:Walör
+Valiant:Walient
+Valier:Walje
+Valinda:Welinda
+Vallauris:Wäloris
+Valle de la Pascua:Waje de la Paskua
+Valle del Cauca:Waje del Kauka
+Vallée:Wale
+Vallès:Wales
+Vallet:Wale
+Valley:Wali
+Vallois:Wa-lü-a
+Vallorbe:Walorbe
+Valmore:Welmor
+Valmy:Walmi
+Valois:Wa-lü-a
+Valpolicella:Walpolitch-eella
+Valve:Walv
+Vamp:Wemp
+Vampire:Wemp-eier
+Van:Wen
+Van Buren:Wan Bü-ren
+Van der Meersch:Wan der Mersch
+Vanbrugh:Wanbre
+Vance:Wens
+Vancouver:Wankuwe
+Vandalia:Wandelia
+Vandermonde:Wandermond
+Vanguard:Wangard
+Vannucci:Wanutschi
+Vanoise:Wanuas
+Vantaa:Wanta
+Vanuatu:Wanuatu
+Vanves:Wanw
+Vapeur:Wapör
+Varchi:Wartschi
+Varenne:Waren
+Varèse:War ese
+Varieté:Warite
+Varignon:Warinon
+Varin:War-n
+Varley:Warli
+Vasari:Wasari
+Velázquez:Welaskes
+Vélez:Weles
+Velké Popovice:Welke Popowize
+Veloce:Welotsche
+Vence:Wans
+Vert:Wert
+Verve:Werw
+Vicente:Wi tschen-te
+Vichy:Wischi
+Vignette:Winjet
+Village:Willadsch
+Ville:Will
+Vinaigrette:Winä-grete
+Virgin:Wödschin
+Virginia:Wirginia
+Visage:Wisasch
+vis-à-vis:wis-a-wi
+vite:wite
+Vitrage:Witrasch
+Vivien:Wiwien
+Vogue:Wog
+Voltaire:Woltär
+Voyager:Wojadscher
+Vernissage:Wernissasche
+Vibromassage:Wibro-massasche
+sechs:seks
+fuchs:fuks
+Christ:Krist
+Christi:Kristi
+Christus:Kristus
+Christian:Kristian
+Chlor:Klor
+Chlorid:Klorid
+Natriumchlorid:Natriumklorid
+Chaos:Kaos
+Cholera:Kolera
+Orchester:Orkester
+wechseln:wekseln
+Charakter:Karakter
+Charisma:Karisma
+Chor:Kor
+wachsen:waksen
+Achsel:Aksel
+Lachs:Laks
+Dachs:Daks
+Luchs:Luks
+Echse:Ekse
+Ochse:Okse
+wuchs:wuks
+Wachs:Waks
+Achse:Akse
+Büchse:Bükse
+Gewächs:Gewäks
+Eidechse:Eidekse
+Weichsel:Weiksel
+Wachstum:Wakstum
+Deichsel:Deiksel
+Sachsen:Saksen
+abwechseln:abwekseln
+Abwechslung:Abwekslung
+Termin:Ter-miiin
+Berechtigungseinstellungen:Berechtigungs-einstellungen
+Standort:Stand-ort
+Voicemail:Woismäjl
+Voice:Wois
+Flugzeugmodus:Flug-zeugmodus
+online:onlain
+manuell:manu ell
+à la carte: a la kart
+Abonnement:Abonnemo
+Adieu:Adjö
+Akteur:Aktör
+Appartement:Apartmo
+Aubergine:Auberschine
+Balance:Ba-löns
+balancieren:balönßieren
+Bankier:Bankie
+Beige:Beesch
+Biskuit:Biskwit
+Bohème:Boem
+Boulevard:Bulewaar
+Brilliant:Briljant
+Bronze:Bronse
+Budget:Büdschee
+Buffet:Büfe
+Camembert:Kamember
+Champagner:Schampanja
+Champignon:Schanpinjon
+Chanson:Schanßo
+Charmant:Scharmant
+Charme:Scharm
+Chauffeur:Schofüer
+Chaussee:Schoßee
+Chef:Schef
+Chiffon:Schifo
+Chiffre:Schifre
+Clique:Klike
+Code:Koot
+Cognac:Konjak
+Cousin:Kusin
+Cousine:Kusine
+Crème:Krem
+Croupier:Krupje
+Depot:Depo
+Detail:Detai
+Devise:Dewise
+Double:Dubl
+Dusche:Duusche
+Entrepreneur:Anteprenjer
+Essay:Eßee
+Filet:Filee
+Friseur:Frisör
+Gourmet:Gurmee
+Kampagne:Kampanje
+Kavalier:Kawaliee
+Kognac:Konjak
+Kommandeur:Komandör
+Kompagnon:Kompanjö
+Kretin:Kretä
+Kurier:Kurje
+Kuvert:Kuhweer
+Mayonnaise:Majonäse
+Medaillon:Medaljö
+Memoiren:Memuaren
+Monteur:Montör
+Noisette:Nuaset
+Ouvertüre:Uvertüre
+Palais:Palee
+Pardon:Pardoo
+Parterre:Parter
+Plateau:Platoo
+Portrait:Portree
+Ragout:Ragoo
+Recherche:Reschersche
+recherchieren:rescherschieren
+Redakteur:Redaktöe
+Ressort:Reßoe
+Revue:Rewü
+Route:Rute
+Sauce:Soße
+Silhouette:Siluete
+Tête-à-tête:Tetateet
+Vestibül:Westibül
+Boeing:Boieng
+Voldemort:Woldemort
+IP:Ei Pie
+IP-Adresse:Ei Pie Adresse
+Protein:Prote-ien
+Hotline:Hotlein
+Hekto Pascal:Hekto Paskal
+Hektopascal:Hektopaskal
+Kilobyte:Kilobeit
+Gigabyte:Gigabeit
+Megabyte:Megabeit
+Terabyte:Terabeit
+Petabyte:Petabeit
+Exabyte:Exabeit
+Zettabyte:Zettabeit
+Yottabyte:Yottabeit
+Voltampere:Woltampeer
+Voltamperestunde:Woltampeerstunde
+Voltamperesekunde:Woltampeersekunde
+Kilovoltamperestunde:Kilowoltampeerstunde
+Amperestunde:Ampeerstunde
+Amperesekunde:Ampeersekunde
+Amperemeter:Ampeermeter
+Kilojoule:Kilodschul
+①:erste
+②:zweite
+③:dritte
+④:vierte
+⑤:fünfte
+⑥:sekste
+⑦:siebente
+⑧:achte
+⑨:neunte
+⑩:zehnte
+⑪:elfte
+⑫:zwölfte
+⑬:dreizehnte
+⑭:vierzehnte
+⑮:fünfzehnte
+⑯:sechzehnte
+⑰:siebzehnte
+⑱:achtzehnte
+⑲:neunzehnte
+⑳:zwanzigste
+❶:erste
+❷:zweite
+❸:dritte
+❹:vierte
+❺:fünfte
+❻:sekste
+❼:siebente
+❽:achte
+❾:neunte
+❿:zehnte
+Handy:Hendi
+Handys:Hendis
+AT&T:Äj tie änd tie
+Verizon:We-raai-son
+Wireless:Uajeless
+Basisstationen:Basis stationen
+Warriors:Uorriors
+BBQ:Barbeqjü
+BBQ-Sauce:Barbeqjü-Soße
+UPS:Ju Pie Ess
+On-Call:On-Koll
+Pickup:Pikaap
+Files:Faaillß
+Warriors:Uariors
+Ethernet:Eeeternet
+AppGallery:Epp Galerie
+Gallery:Galerie
+NBA:En Bie ä-ij
+Service:ßerwis
+Serviceleistung:ßerwisleistung
+Kundenservice:Kundenßerwis
+Ctrl:Kontrol
+Ctrl-C:Kontrol Tseh
+Ctrl-D:Kontrol Deh
+IEEE:Aj tripel ii
+IPv4:Ei Pie Fau vier
+IPv6:Ei Pie Fau seks
+WLAN-MAC-Adresse:Wehlan-mak-Adresse
+Netzwerk-MAC-Adresse:Netzwerk-mak-Adresse
+MAC-Adresse:mak-Adresse
+Baby:Beejbi
+Design:Disein
+Team:Tiem
+browser:brauser
+Charge:Tschardsch
+Chat:Tschat
+Times:Teims
+Higher:Heie
+Education:Edjükejschen
+University:Jünivörsiti
+laugh out loud:laf-aut-laut
+Timeout:Teimaut
+Software:Soft-wer
+Songwriter:Sonreiter
+Bloomsbury:Blumsberi
+Loggen:Lo-gn
+Bionic:Bei-onick
+Ingenieur:In-dschen jör
+Wow:W-au
+Sojasauce:So-jasohs
+Steve Jobs:ß-tiw Dschobs
+Jack:Dscheck
+Molly:M-olli
+vs:wersus
+Shuttlebus:Schattl bus
+Ralph Fiennes:Ralf Fains
+Coulson:Kolsn
+Gates:Gej-ts
+Ave:Awenü
+Hardware:Hardwear
+Servicezeiten:ßerwiszeiten
+Seoul:Sssoooul
+Dialer:Dailer
+Roman:Ro-maan
+MAC:mak
+Substanz:Sub-ßtaanz
+Update:Apdejt
+Updates:Apdejts
+Man-Booker-Prize:Men-Buuker-Preis
+SuperCharge:Supertschardsch
+Ctrl\+D:Kontrol Deh
+Alt\+F:Alt Eff
+Sonnett:Sonnneett
+Elizabeth:Elisabeth
+Honore:Onoree
+Władysław:Wladyslav
+Amadeus:Amadee us
+Basileios:Wasilios
+Bayezid:Bejesid
+Mehmed:Mächmeed
+Ahmed:Achmeed
+Mahmud:Machmud
+Abdülhamid:Abdülchamid
+Sava:ßava
+Hadrian:Adrian
+Euthymios:E-uthimios
+Eugenius:Jewggeenius
+Honoré de Balzac:Onoree dee Balsak
+Eustathios:Juws-tathios
+Vasilos:Waßilos
+Senwosret:ße-nwusret
+Benjamin:Bendschamin
+Pinudjem:Pinudschem
+Dareios:Darios
+Road:Roud
+Avenue:Awenü
+Highway:Haiwe-j
+Lane:Lejn
+Place:Ple-js
+Plaza:Plasa
+Street:ßßtriet
+MeeTime:Mie Tajm
+Smart Screen:Smart Skrien
+Screen:Skrien
+ZUSTIMMEN:zustimmen
+HERE WeGo:hier uii gou
+Apps:äps
+Shuttlebus:Schatelbas
+User:Jüser
+user:jüser
+Users:Jüsers
+users:jüsers
+Video:Videoo
+homepage:houmpejdsch
+username:jüserneejm
+Username:Jüserneejm
+feedback:fiedbäck
+USB:Jü Ess Bie
+USB-Stick:Jü Ess Bie-ßßtik
+Offline:Offlain
+account:akaunt
+Program Files:Program Faaillß
+settings:ßettings
+Document:dokjüments
+Windows:Uindous
+OneDrive:Uan Draiv
+Microsoft:Meikroßßoft
+Office:Offiß
+icon:eikon
+icons:eikons
+Facebook:Fejsbuk
+Computer:Kompjüter
+Camping:Kemping
+Band:Bend
+d\.h\.:das heißt
+Smartphone:Smartfoun
+Rankings:Renkings
+downloaden:daunloden
+download:daunlod
+City:ßiti
+city:ßiti
+Hall:Hol
+World:Uorld
+Trade:Trejd
+Center:ßenter
+Bowery:Baueri
+Fast & Furious:Fast end Fjurious
+Cafe:Kaafie
+Café:Kaafie
+Adobe:Adobi
+Sketch:Skettsch
+Airbnb:äir bi en bi
+AliExpress:Ali Ekspress
+Amazon:Amason
+Music:Musik
+Angry Birds:Engri Börds
+store:ßßtor
+Aviasales:Awia ßejls
+Badoo:Baduu
+Banking:Benking
+Archos:Arkos
+Blufire:Blüfeier
+Booking:Buking
+Chrome:Krom
+Citymapper:ßitimepper
+CoinKeeper:Koin Kiper
+Duolingo:Duolinggo
+Faceapp:Fäjß-epp
+Facetune:Fäjßtjun
+Firefox:Feierfoks
+Foursquare:Forßkuäjr
+Drive:Draiv
+hangouts:hängauts
+Maps:Meps
+Play:Pläj
+Iphone:Eifon
+Itunes: Eitjüns
+Joom:Juum
+Kindle:Kindl
+Linkedin:Linkdin
+Mcdonald's:Makdonalds
+onenote:uannout
+Minecraft:Meinkraft
+MyFitnessPal:Mei Fitness Pel
+PayPal:PäjPeel
+PDF: pie die eff
+Reader:Rieder
+Viewer:Wjjüüeer
+Pop up:Pop ap
+Ryanair:Räin-eejr
+Sberbank:ßßber bank
+Pinterest:Pintereßt
+Shareit:Scherit
+Shazam: Schasam
+Skype:ßßkeip
+Snapchat:Sneptschet
+Sony:ßoni
+SoundCloud:ßaundKlaud
+Spotify:ßßpotifei
+Stepik:ßßtepik
+Streaming:ßßtrieming
+Team:Tiem
+TripAdvisor:TripEdveisar
+Viber:Weiber
+WeTaxi:Wi Taksi
+WhatsApp:UotsEpp
+Browser:Brauser
+Search:ßßörtsch
+Zoom:Suum
+n\. Ch:nach Christus
+v\. Ch:vor Christus
+v\.u\.Z\.:vor unserer Zeitrechnung
+u\.Z\.:unserer Zeitrechnung
+dh\.:das heißt
+A\.D\.:Anno Domini
+A\. D\.:Anno Domini
+B\.C\.:bevor Kreist
+B\. C\.:bevor Kreist
+NASA:naßa
+UNESCO:uneeßko
+BRICS:briks
+Forbes-Liste:Forbs Liste
+Forbes:Forbs
+Bionic Boot:Bei-onick Buut
+Fahrspur:Faarspur
+Fahrspuren:Faarspuren
+Teammitglieder:Tiem-mit-glieder
+Shopping-More-Event:Schopping-Moor-Iewent
+Legende:Le-gende
+Buddha:Buda
+E-Mail-Adresse:Ie-Mej-l-Adresse
+E-Mail:Ie-Mej-l
+Barrel:Berrel
+Barrels:Berrels
+Dialogrunde:Dialog runde
+9\/11:elfte September
+Anschlag 9\/11:Anschlag elfte September

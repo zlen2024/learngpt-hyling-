@@ -1,0 +1,9 @@
+http
+https
+ssh
+ftp
+www
+xs
+xl
+xxl
+xxs

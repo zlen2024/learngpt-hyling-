@@ -1,0 +1,24 @@
+﻿first,label,label
+second, ,normalized
+1,Für den 23.12.1998 haben wir schon eine Geburtstagsparty geplant.,Für den drei-und-zwanzigsten Dezember neunzehn-hundert-acht-und-neunzig haben wir schon eine Geburtstagsparty geplant .
+2,Die Abstimmung in unserer Abteilung findet gegen den 3.11.2018 statt.,Die Abstimmung in unserer Abteilung findet gegen den dritten November zwei-tausend-achtzehn statt .
+3,Das Verbrechen auf unserer Straße ist um den 05-04-1982 passiert.,Das Verbrechen auf unserer Straße ist um den fünften April neunzehn-hundert-zwei-und-achtzig passiert .
+4,"Wir haben uns darauf geeinigt, die Veranstaltung auf den 17-07-1999 zu verschieben.","Wir haben uns darauf geeinigt , die Veranstaltung auf den siebzehnten Juli neunzehn-hundert-neun-und-neunzig zu verschieben ."
+5,Die Winterzeit wird ab dem 28/10/2019 eingeführt.,Die Winterzeit wird ab dem acht-und-zwanzigsten Oktober zwei-tausend-neunzehn eingeführt .
+6,Von dem 09/06/2008 an fängt mein Sommerurlaub schon an.,Von dem neunten Juni zwei-tausend-acht an fängt mein Sommerurlaub schon an .
+7,In unserer Schule fangen die Sommerferien vom 21/08/2014 an.,In unserer Schule fangen die Sommerferien vom ein-und-zwanzigsten August zwei-tausend-vierzehn an .
+8,Von dem 21/05/2019 an möchte ich mehr Acht auf meine Ernährung geben.,Von dem ein-und-zwanzigsten Mai zwei-tausend-neunzehn an möchte ich mehr Acht auf meine Ernährung geben .
+9,Von dem 09.09.2004 wird ein neues Besteuerungssystem kreisübergreifend eingeführt.,Von dem neunten September zwei-tausend-vier wird ein neues Besteuerungssystem kreisübergreifend eingeführt .
+10,Meine Familie wird an dem 08.10.2019 an dem Wettbewerb in unserem Viertel teilnehmen.,Meine Familie wird an dem achten Oktober zwei-tausend-neunzehn an dem Wettbewerb in unserem Viertel teilnehmen .
+11,In Leipzig fängt die Lichterwoche am 07-11-2016 statt.,In Leipzig fängt die Lichterwoche am siebten November zwei-tausend-sechzehn statt .
+12,Die wirtschaftlichen Probleme kommen noch aus dem 03.10.1990.,Die wirtschaftlichen Probleme kommen noch aus dem dritten Oktober neunzehn-hundert-neunzig .
+13,Die neue Staffel von ""Tatort"" wird bis zum 07.04.2015 im Fernseher laufen.,Die neue Staffel von ""Tatort"" wird bis zum siebten April zwei-tausend-fünfzehn im Fernseher laufen .
+14,Nach dem 26-02-2018 wird die Straffe für die Geschwindigkeitsüberschreitung in dem Bundesland Niedersachsen erhöht.,Nach dem sechs-und-zwanzigsten Februar zwei-tausend-achtzehn wird die Straffe für die Geschwindigkeitsüberschreitung in dem Bundesland Niedersachsen erhöht .
+15,Seit dem 16/03/2007 wird der Rücktritt des Wirtschaftswachstums weltweit zu merken sein.,Seit dem sechzehnten März zwei-tausend-sieben wird der Rücktritt des Wirtschaftswachstums weltweit zu merken sein .
+16,Von dem 09.09.2004 bis zum 12.09.2004 werden in Ihrem Haus die Heizanlagen geprüft.,Von dem neunten September zwei-tausend-vier bis zum zwölften September zwei-tausend-vier werden in Ihrem Haus die Heizanlagen geprüft .
+17,Vom 04.01.2003 bis zum 07.01.2003 werden auf dieser Stelle der Straße die Bauarbeiten durchgeführt.,Vom vierten Januar zwei-tausend-drei bis zum siebten Januar zwei-tausend-drei werden auf dieser Stelle der Straße die Bauarbeiten durchgeführt .
+18,"Es ist empfehlenswert, den Test vor dem 08/08/2014 durchzuführen.","Es ist empfehlenswert , den Test vor dem achten August zwei-tausend-vierzehn durchzuführen ."
+19,"Es kann sein, dass unser Laden zwischen dem 13-07-2016 und dem 20-07-2016 geschlossen sein wird.","Es kann sein , dass unser Laden zwischen dem dreizehnten Juli zwei-tausend-sechzehn und dem zwanzigsten Juli zwei-tausend-sechzehn geschlossen sein wird ."
+20,Wir sind rund um die Uhr außerhalb des 31.12.2019 auf.,Wir sind rund um die Uhr außerhalb des ein-und-dreißigsten Dezembers zwei-tausend-neunzehn auf .
+21,Sie können uns jederzeit innerhalb des 12/04/2007 telefonisch erreichen.,Sie können uns jederzeit innerhalb des zwölften April zwei-tausend-sieben telefonisch erreichen .
+22,Sie können uns Ihre Gedichte noch während des 15.02.2017 zuschicken.,Sie können uns Ihre Gedichte noch während des fünfzehnten Februars zwei-tausend-siebzehn zuschicken .

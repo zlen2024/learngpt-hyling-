@@ -1,0 +1,18 @@
+{
+  "m":["mètre","mètres"],
+  "kg":["kilogramme","kilogrammes"],
+  "cm":["centimètre","centimètres"],
+  "km":["kilomètre","kilomètres"],
+  "s":["seconde","secondes"],
+  "A":["ampère","ampères"],
+  "h":["heure","heures"],
+  "min":["minute","minutes"],
+  "cd":["candela","candelas"],
+  "mol":["mole","moles"],
+  "Hz":["hertz","hertz"],
+  "K":["kelvin","kelvins"],
+  "C" :["degré Celsius","degrés Celsius"],
+  "dB":["décibel","décibels"],
+  "GB":["gigabyte","gigabytes"],
+  "mph":["mille par heure","milles par heure"]
+}

@@ -1,0 +1,142 @@
+Jan\.?:January
+Feb\.?:February
+Mar\.?:March
+Apr\.?:April
+Jun\.?:June
+Jul\.?:July
+Aug\.?:August
+Sept?\.?:September
+Oct\.?:October
+Nov\.?:November
+Dec\.?:December
+Mon\.:Monday
+Tues\.:Tuesday
+Wed\.:Wednesday
+Thur\.:Thursday
+Fri\.:Friday
+Sat\.:Saturday
+Sun\.:Sunday
+\(Mon\):Monday
+\(Tues\):Tuesday
+\(Wed\):Wednesday
+\(Thur\):Thursday
+\(Fri\):Friday
+\(Sat\):Saturday
+\(Sun\):Sunday
+c\/o:care of
+approx\.:approximately
+acct\.:account
+appt\.:appointment
+apt\.:apartment
+e\.g\.:for example
+encl\.:enclosed
+etc\.:et cetera
+i\.e\.:that is
+Mr\.?:Mister
+Mrs\.?:Missis
+Ms\.?:Miss
+pp:pages
+jr\.:junior
+capt\.:captain
+dept\.:department
+sgt\.:sergeant
+esq\.:esquire
+ltd\.:limited
+A\.S\.A\.P\.:as soon as possible
+B\.Y\.O\.B\.:bring your own bottle
+D\.I\.Y\.:Do it yourself
+est\.:established
+misc\.:miscellaneous
+vs\.:versus
+tel\.?:telephone
+fig\.?:figure
+ft\.:featuring
+ft:fort
+Bros\.:brothers
+WWII:World War two
+WW2:World War two
+Blvd\.:Boulevard
+Cyn\.:Canyon
+Ln\.:Lane
+Rd\.:Road
+Ave\.?:Avenue
+Sq\.:square
+Rd\.:road
+NY:New York
+N\.Y\.:New York
+&Co:and Company
+H&M:eihch and em
+R&D:arr and dee
+SPb:Saint-Petersburg
+WiFi:why-figh
+wifi:why-figh
+wi-?fi:why-figh
+Wi-?Fi:why-figh
+[hH]i:high
+Hi:high
+WeChat:we chat
+VK:v konthakthy
+Vkontakte:v contactee
+O[kK]:ow kay
+JPEG:jei-peg
+jpeg:jei-peg
+CEO:see ee ow
+NEO:neeoo
+ltd:limited
+LOL:lots of love
+mil\.:million
+bil\.:billion
+vol:volume
+pvt:private
+jr:junior
+Jr:junior
+\(-∞,\+∞\):from minus infinity to plus infinity
+\(-∞, \+∞\):from minus infinity to plus infinity
+TMALL:t mall
+VMALL:v mall
+MIUI:mi u i
+EMUI:emotion u i
+CTRL:control
+Ctrl:control
+HK :hong kong
+SOLO:so lo
+SOHO:so ho
+baidu:bye do
+DRAM:d ram
+Redhat:red hat
+Flyme:fly me
+ColorOS: color os
+WLAN:w lan
+HIFI:high figh
+CMOS:see mos
+GMT:Greenwich Mean Time
+Oppo:owppo
+oppo:owppo
+Angelababy:angela baby
+angelababy:angela baby
+ASCII:asc
+UNIX:u nix
+UINX:u nix
+Uinx:u nix
+TD-LTE:t d - l t e
+FDD-LTE:f d d - l t e
+AAAAA:five ey
+CA:california
+BBQ:barbeque
+vs:versus
+ABV:alcohol by volume
+qq: q q
+T-storms:thunderstorms
+tsp:teaspoon
+tbsp:tablespoon
+unionpay: union pay
+UnionPay: union pay
+Unionpay: union pay
+a.m.:AM
+A.M.:AM
+p.m.:PM
+P.M.:PM
+RMB:Chinese yuan
+HKD:Hong Kong dollar
+No.:number
+NO.:number

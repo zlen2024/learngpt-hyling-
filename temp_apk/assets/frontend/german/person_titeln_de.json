@@ -1,0 +1,412 @@
+{
+  "Kaiserin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kaiserinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kaiser": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kaisers": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kaisern": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkaiserin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Exkaiserinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkaiser": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkaisers": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Exkaisern": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Imperator": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "König": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Königs": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Könige": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Königen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Königin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Königinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkönig": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Exkönigs": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Exkönige": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkönigen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Exkönigin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Exköniginnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Papa": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Papas": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Papst": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Papsts": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Papstes": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Päpste": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Päpsten": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Päpstin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Päpstinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Bischof": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Bischofs": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Bischöfe": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Bischöfen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Bischöfin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Bischöfinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Erzbischof": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Erzbischofs": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Erzbischöfe": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Erzbischöfen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Erzbischöfin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Erzbischöfinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Fürstbischof": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Fürstbischofs": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Fürstbischöfe": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Fürstbischöfen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Fürstbischöfin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Fürstbischöfinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ] ,
+
+  "Kardinal": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kardinals": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kardinäle": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kardinälen": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kurfürst": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kurfürsten": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Graf": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Grafen": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Markgraf": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Markgrafen": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Gräfin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Gräfinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Markgräfin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Markgräfinnen": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "DATIV", "gramnumber": "PLURAL" },
+    { "gender": "FEMININE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kanzler": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "SINGULAR" },
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "AKKUSATIV", "gramnumber": "PLURAL" },
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Kanzlers": [
+    { "gender": "MASCULINE", "gramcase": "GENITIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Kanzlern": [
+    { "gender": "MASCULINE", "gramcase": "DATIV", "gramnumber": "PLURAL" }
+  ],
+
+  "Prinz": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Prinzessin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Zar": [
+    { "gender": "MASCULINE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ],
+
+  "Zarin": [
+    { "gender": "FEMININE", "gramcase": "NOMINATIV", "gramnumber": "SINGULAR" }
+  ]
+}
