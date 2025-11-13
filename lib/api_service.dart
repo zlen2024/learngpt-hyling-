@@ -14,7 +14,7 @@ Future<String> sendMessageToOpenRouter(
   String? systemFeedback,
 ]) async {
   // NOTE: Replace this with secure token storage in a real app
-  const apiKey = "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"; 
+  const apiKey = "OPEN_ROUTER_API_KEY"; 
   const apiUrl = "https://openrouter.ai/api/v1/chat/completions";
 
   final headers = {
